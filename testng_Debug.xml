@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <listeners>
+<listener class-name="resources.ExtentReporterNG"/>
+<!-- <listener class-name="Analyzer.MyTransformer"/> -->
+<listener class-name="resources.listeners"></listener>
+</listeners>
+
+  
+     
+    <!--    <test  name="Test Case: Clening Client">
+    <classes>
+     
+      <class name="VW_TC.TC0000_Cleaning_Client"/>
+         
+     </classes> 
+     </test> -->
+     
+         
+   <!--     <test  name="Test Case: Clening">
+    <classes>
+     
+      <class name="VW_TC.TC0000_Cleaning_Client"/>
+         
+     </classes> 
+     </test>   -->
+         
+         
+                      
+   <!--     <test  name="Validation of Sanity Flow Test Cases of VoiceWatch">
+    <classes>
+     
+      <class name="VW_TC.TC0021_login_With_Exmpirix_Admin_Sanity_Flow_27_releaseE2E"/>
+      
+    
+         
+     </classes> 
+     </test>     -->
+     
+     
+         <test  name="Validation of Sanity Flow Test Cases of VoiceWatch">
+    <classes>
+     
+      <class name="VW_TC.TC0000_Debug_Testing1"/>
+      
+    
+         
+     </classes> 
+     </test>    
+  
+     
+     
+</suite> 

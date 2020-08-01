@@ -1,0 +1,40 @@
+[DEBUG] 2020-07-30 17:44:06,273 basePropertiesFile.intializeWebDriver() - Chrome Driver intilized successfully
+[INFO ] 2020-07-30 17:44:06,308 basePropertiesFile.intializeWebDriver() - Chrome Browser selected & Launching
+[INFO ] 2020-07-30 17:44:07,965 basePropertiesFile.VoiceWatch_login() - Screen maximized successfully
+[DEBUG] 2020-07-30 17:44:23,602 basePropertiesFile.VoiceWatch_login() - URL provided
+[INFO ] 2020-07-30 17:44:24,973 basePropertiesFile.VoiceWatch_login() - Refresing Page again
+[INFO ] 2020-07-30 17:44:26,529 basePropertiesFile.VoiceWatch_login() - Loding so refersing page again
+[DEBUG] 2020-07-30 17:44:31,388 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-30 17:44:42,771 basePropertiesFile.VoiceWatch_login() - Webpage loading
+[DEBUG] 2020-07-30 17:44:43,289 basePropertiesFile.VoiceWatch_login() - User Name Provided
+[DEBUG] 2020-07-30 17:44:44,009 basePropertiesFile.VoiceWatch_login() - Password Provided
+[DEBUG] 2020-07-30 17:44:44,702 basePropertiesFile.VoiceWatch_login() - Sign button clicked
+[DEBUG] 2020-07-30 17:44:44,705 basePropertiesFile.VoiceWatch_login() - User logged in:admin
+[DEBUG] 2020-07-30 17:45:21,007 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-30 17:45:35,340 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile dropdown clicked
+[DEBUG] 2020-07-30 17:45:36,318 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile Tab clicked
+[DEBUG] 2020-07-30 17:45:45,791 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserEmail is: ecp_admin@empirix.com
+[DEBUG] 2020-07-30 17:45:45,936 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserID is: admin
+[DEBUG] 2020-07-30 17:45:45,936 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Verified User name retrived as : admin
+[DEBUG] 2020-07-30 17:45:46,088 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User First Name is: admin
+[DEBUG] 2020-07-30 17:45:46,217 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Last Name is: admin
+[DEBUG] 2020-07-30 17:45:46,366 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Permission Level is: Empirix Admin
+[DEBUG] 2020-07-30 17:45:48,052 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Notification Tab clicked
+[DEBUG] 2020-07-30 17:45:51,188 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Notification icon clicked
+[DEBUG] 2020-07-30 17:45:53,641 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Verified that 'Save' button disabled under Notification tab
+[DEBUG] 2020-07-30 17:45:53,834 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-30 17:45:53,838 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-30 17:45:56,041 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Passing Random notification name under Notification tabNotify_SZ7GL
+[DEBUG] 2020-07-30 17:45:57,154 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Passing Email Addresses: ecp_admin@empirix.comunder Notification tab
+[INFO ] 2020-07-30 17:45:57,759 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Save button clicked
+[INFO ] 2020-07-30 17:45:59,486 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Found load progress bar
+[DEBUG] 2020-07-30 17:45:59,595 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Verified that 'Save' button disabled after creating notification
+[DEBUG] 2020-07-30 17:45:59,809 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Verified that 'Choose either user or enter email addresses' icon is not displaying
+[DEBUG] 2020-07-30 17:45:59,912 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Verified that 'Delete' button enabled after creating notification
+[DEBUG] 2020-07-30 17:46:00,065 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Verified that 'Mail' button enabled after creating notification
+[DEBUG] 2020-07-30 17:46:00,065 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Verified that Notification:Notify_SZ7GLCreated Successfully
+[INFO ] 2020-07-30 17:46:02,363 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Found load progress bar
+[INFO ] 2020-07-30 17:46:02,848 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Mail alert displayed
+[INFO ] 2020-07-30 17:46:03,129 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Verified that popup 'Test email sent' text appeared on popup
+[DEBUG] 2020-07-30 17:46:03,685 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Notification filter clicked
+[INFO ] 2020-07-30 17:46:04,298 pom010_VW_Notification_Tab.CBM_Test_Now_Assign_Notificaton() - Navigate to Test Tab

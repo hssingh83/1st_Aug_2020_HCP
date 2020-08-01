@@ -1,0 +1,297 @@
+[DEBUG] 2020-07-24 15:06:57,707 basePropertiesFile.intializeWebDriver() - Chrome Driver intilized successfully
+[INFO ] 2020-07-24 15:06:57,707 basePropertiesFile.intializeWebDriver() - Chrome Browser selected & Launching
+[INFO ] 2020-07-24 15:06:58,891 basePropertiesFile.VoiceWatch_login() - Screen maximized successfully
+[DEBUG] 2020-07-24 15:07:14,509 basePropertiesFile.VoiceWatch_login() - URL provided
+[INFO ] 2020-07-24 15:07:17,322 basePropertiesFile.VoiceWatch_login() - Refresing Page again
+[INFO ] 2020-07-24 15:07:17,406 basePropertiesFile.VoiceWatch_login() - Loding so refersing page again
+[DEBUG] 2020-07-24 15:07:17,760 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-24 15:08:07,821 basePropertiesFile.VoiceWatch_login() - Page not loaded, retrial attempt: 1
+[DEBUG] 2020-07-24 15:08:16,891 basePropertiesFile.VoiceWatch_login() - Page not loaded, retrial attempt: 2
+[DEBUG] 2020-07-24 15:08:26,047 basePropertiesFile.VoiceWatch_login() - Page not loaded, retrial attempt: 3
+[DEBUG] 2020-07-24 15:08:34,612 basePropertiesFile.VoiceWatch_login() - Page not loaded, retrial attempt: 4
+[DEBUG] 2020-07-24 15:08:40,036 basePropertiesFile.VoiceWatch_login() - Webpage loading
+[DEBUG] 2020-07-24 15:08:40,100 basePropertiesFile.VoiceWatch_login() - User Name Provided
+[DEBUG] 2020-07-24 15:08:40,179 basePropertiesFile.VoiceWatch_login() - Password Provided
+[DEBUG] 2020-07-24 15:08:40,252 basePropertiesFile.VoiceWatch_login() - Sign button clicked
+[DEBUG] 2020-07-24 15:08:40,252 basePropertiesFile.VoiceWatch_login() - User logged in:admin
+[DEBUG] 2020-07-24 15:09:24,589 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-24 15:09:30,359 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile dropdown clicked
+[DEBUG] 2020-07-24 15:09:34,013 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile Tab clicked
+[DEBUG] 2020-07-24 15:09:42,787 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserEmail is: ecp_admin@empirix.com
+[DEBUG] 2020-07-24 15:09:42,826 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserID is: admin
+[DEBUG] 2020-07-24 15:09:42,826 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Verified User name retrived as : admin
+[DEBUG] 2020-07-24 15:09:42,846 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User First Name is: admin
+[DEBUG] 2020-07-24 15:09:42,881 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Last Name is: admin
+[DEBUG] 2020-07-24 15:09:42,913 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Permission Level is: Empirix Admin
+[DEBUG] 2020-07-24 15:09:43,160 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Notification Tab clicked
+[DEBUG] 2020-07-24 15:09:45,076 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Notification icon clicked
+[DEBUG] 2020-07-24 15:09:47,557 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that 'Save' button disabled under Notification tab
+[DEBUG] 2020-07-24 15:09:47,570 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-24 15:09:47,570 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-24 15:09:48,913 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Passing Random notification name under Notification tabNotify_QPR64
+[DEBUG] 2020-07-24 15:09:49,080 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Passing Email Addresses: ecp_admin@empirix.comunder Notification tab
+[INFO ] 2020-07-24 15:09:49,200 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Save button clicked
+[INFO ] 2020-07-24 15:09:50,879 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Found load progress bar
+[DEBUG] 2020-07-24 15:09:50,934 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that 'Save' button disabled after creating notification
+[DEBUG] 2020-07-24 15:09:51,030 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that 'Choose either user or enter email addresses' icon is not displaying
+[DEBUG] 2020-07-24 15:09:51,094 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that 'Delete' button enabled after creating notification
+[DEBUG] 2020-07-24 15:09:51,160 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that 'Mail' button enabled after creating notification
+[DEBUG] 2020-07-24 15:09:51,160 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that Notification:Notify_QPR64Created Successfully
+[INFO ] 2020-07-24 15:09:53,655 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Found load progress bar
+[INFO ] 2020-07-24 15:09:53,688 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Mail alert displayed
+[INFO ] 2020-07-24 15:09:53,734 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that popup 'Test email sent' text appeared on popup
+[DEBUG] 2020-07-24 15:09:54,007 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Notification filter clicked
+[INFO ] 2020-07-24 15:09:54,167 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Navigate to script Tab
+[INFO ] 2020-07-24 15:09:58,583 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - found progress bar
+[INFO ] 2020-07-24 15:10:00,816 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Start Creating Script using + button
+[INFO ] 2020-07-24 15:10:01,978 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - New script creation popup appered
+[INFO ] 2020-07-24 15:10:01,978 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-24 15:10:01,978 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Clicked Yes
+[DEBUG] 2020-07-24 15:10:01,978 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that Script dropdown
+[DEBUG] 2020-07-24 15:10:02,063 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-24 15:10:02,869 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-24 15:10:04,416 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that e164disabled
+[INFO ] 2020-07-24 15:10:04,416 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Generate Radom Scriptname IVR_Script_IN3ZM
+[INFO ] 2020-07-24 15:10:04,616 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Passing script name IVR_Script_IN3ZM
+[INFO ] 2020-07-24 15:10:04,724 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Passing Number to Call is 18001111111
+[INFO ] 2020-07-24 15:10:04,724 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Sync issue so waiting just one second
+[INFO ] 2020-07-24 15:10:04,797 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Deleteing First PhraseHear
+[INFO ] 2020-07-24 15:10:04,797 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Sync issue so waiting just one second
+[INFO ] 2020-07-24 15:10:04,880 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Deleteing first Press Section
+[INFO ] 2020-07-24 15:10:04,880 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Sync issue so waiting just one second
+[INFO ] 2020-07-24 15:10:04,953 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Deleteing second PhraseHear
+[INFO ] 2020-07-24 15:10:06,255 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Using Action class double clicked pause button
+[INFO ] 2020-07-24 15:10:06,356 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Clicked Save button
+[INFO ] 2020-07-24 15:10:24,141 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Sync issue so waiting just ten Second
+[INFO ] 2020-07-24 15:10:24,177 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that Run button enabled
+[INFO ] 2020-07-24 15:10:24,205 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that Run button contain Run Test text
+[INFO ] 2020-07-24 15:10:24,296 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Navigate to Test Tab
+[INFO ] 2020-07-24 15:10:27,547 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Clicked Test Create icon
+[INFO ] 2020-07-24 15:10:28,000 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - IVR Test Selected from Test Selection dropdown
+[INFO ] 2020-07-24 15:10:28,237 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Start Creating Test using + button
+[INFO ] 2020-07-24 15:10:33,118 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Test Name Passing
+[INFO ] 2020-07-24 15:10:33,249 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - clicked above search script
+[INFO ] 2020-07-24 15:10:35,678 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Progressbar while click drop down
+[INFO ] 2020-07-24 15:10:35,865 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - clicked above Save button
+[INFO ] 2020-07-24 15:10:37,590 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Progressbar after click save button
+[INFO ] 2020-07-24 15:10:37,665 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Verified that Run button enabled
+[DEBUG] 2020-07-24 15:10:37,825 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Navigate ack to notification Tab
+[DEBUG] 2020-07-24 15:10:40,520 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Retriving Notification
+[DEBUG] 2020-07-24 15:10:41,951 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Click first search notify
+[DEBUG] 2020-07-24 15:10:44,913 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Associted Test: IVR_Test_IVR_Script_IN3ZM
+[DEBUG] 2020-07-24 15:10:44,921 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_def_Template() - Associated Tests: IVR_Test_IVR_Script_IN3ZMCreated successfully
+[DEBUG] 2020-07-24 15:10:46,188 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Notification Tab clicked
+[DEBUG] 2020-07-24 15:10:46,291 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Notification icon clicked
+[DEBUG] 2020-07-24 15:10:47,767 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Save' button disabled under Notification tab
+[DEBUG] 2020-07-24 15:10:47,795 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-24 15:10:47,795 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-24 15:10:49,042 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Passing Random notification name under Notification tab: Notify_XM88V
+[DEBUG] 2020-07-24 15:10:49,231 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Passing Email: ecp_admin@empirix.com under Notification tab
+[DEBUG] 2020-07-24 15:10:49,375 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Select - Create Email Template -' from Email Template dropdown
+[DEBUG] 2020-07-24 15:10:49,419 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Delete' button displayed while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:49,444 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Delete' button disabled while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:49,479 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Save Email Template' button displayed while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:49,499 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Save Email Template' button disabled while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:49,546 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Edit' button displayed while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:49,744 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - TemplateName passed
+[DEBUG] 2020-07-24 15:10:49,890 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Subject Passed
+[DEBUG] 2020-07-24 15:10:50,172 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Body Passed
+[DEBUG] 2020-07-24 15:10:50,697 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Delete' button displayed while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:50,725 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Delete' button disabled while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:50,751 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Save Email Template' button displayed while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:50,759 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Save Email Template' button disabled while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:50,812 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Edit' button displayed while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:50,895 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Save Creted Template
+[DEBUG] 2020-07-24 15:10:52,602 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Progress page loading
+[DEBUG] 2020-07-24 15:10:52,683 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Delete' button displayed while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:52,683 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Delete' button disabled while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:52,715 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Save Email Template' button displayed while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:52,748 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Save Email Template' button disabled while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:52,798 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Edit' button displayed while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:52,806 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Edit' button disabled while select create new Email template from dropdown
+[DEBUG] 2020-07-24 15:10:52,806 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that Email Template: Automation_Testing_Template_DEN3I created successfully
+[INFO ] 2020-07-24 15:10:52,946 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Save button clicked
+[INFO ] 2020-07-24 15:10:54,666 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Found load progress bar
+[DEBUG] 2020-07-24 15:10:54,724 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Save' button disabled after creating notification
+[DEBUG] 2020-07-24 15:10:54,821 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Choose either user or enter email addresses' icon is not displaying
+[DEBUG] 2020-07-24 15:10:54,868 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Delete' button enabled after creating notification
+[DEBUG] 2020-07-24 15:10:54,950 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that 'Mail' button enabled after creating notification
+[DEBUG] 2020-07-24 15:10:54,950 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that Notification:Notify_XM88V created Successfully
+[INFO ] 2020-07-24 15:10:57,398 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Found load progress bar
+[INFO ] 2020-07-24 15:10:57,442 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Mail alert displayed
+[INFO ] 2020-07-24 15:10:57,489 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that popup 'Test email sent' text appeared on popup
+[DEBUG] 2020-07-24 15:10:57,590 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Notification filter clicked
+[INFO ] 2020-07-24 15:10:57,692 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Navigate to script Tab
+[INFO ] 2020-07-24 15:11:03,217 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - found progress bar
+[INFO ] 2020-07-24 15:11:03,322 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Start Creating Script using + button
+[INFO ] 2020-07-24 15:11:03,394 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - New script creation popup appered
+[INFO ] 2020-07-24 15:11:03,394 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-24 15:11:03,394 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Clicked Yes
+[DEBUG] 2020-07-24 15:11:03,394 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that Script dropdown
+[DEBUG] 2020-07-24 15:11:03,541 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-24 15:11:04,195 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-24 15:11:04,295 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that e164disabled
+[INFO ] 2020-07-24 15:11:04,295 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Generate Radom Scriptname IVR_Script_JDAO8
+[INFO ] 2020-07-24 15:11:04,477 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Passing script name IVR_Script_JDAO8
+[INFO ] 2020-07-24 15:11:04,586 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Passing Number to Call is 18001111111
+[INFO ] 2020-07-24 15:11:04,586 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Sync issue so waiting just one second
+[INFO ] 2020-07-24 15:11:04,659 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Deleteing First PhraseHear
+[INFO ] 2020-07-24 15:11:04,663 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Sync issue so waiting just one second
+[INFO ] 2020-07-24 15:11:04,732 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Deleteing first Press Section
+[INFO ] 2020-07-24 15:11:04,732 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Sync issue so waiting just one second
+[INFO ] 2020-07-24 15:11:04,799 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Deleteing second PhraseHear
+[INFO ] 2020-07-24 15:11:06,095 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Using Action class double clicked pause button
+[INFO ] 2020-07-24 15:11:06,195 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Clicked Save button
+[INFO ] 2020-07-24 15:11:10,162 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Sync issue so waiting just ten Second
+[INFO ] 2020-07-24 15:11:10,207 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that Run button enabled
+[INFO ] 2020-07-24 15:11:10,239 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that Run button contain Run Test text
+[INFO ] 2020-07-24 15:11:10,331 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Navigate to Test Tab
+[INFO ] 2020-07-24 15:11:12,575 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - IVR Test Selected from Test Selection dropdown
+[INFO ] 2020-07-24 15:11:12,680 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Start Creating Test using + button
+[INFO ] 2020-07-24 15:11:12,680 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Clicked Test Create icon
+[INFO ] 2020-07-24 15:11:15,607 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Test Name Passing
+[INFO ] 2020-07-24 15:11:15,722 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - clicked above search script
+[INFO ] 2020-07-24 15:11:17,411 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Progressbar while click drop down
+[INFO ] 2020-07-24 15:11:17,622 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - clicked above Save button
+[INFO ] 2020-07-24 15:11:19,353 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Progressbar after click save button
+[INFO ] 2020-07-24 15:11:19,430 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Verified that Run button enabled
+[DEBUG] 2020-07-24 15:11:19,674 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Navigate ack to notification Tab
+[DEBUG] 2020-07-24 15:11:23,413 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Retriving Notification
+[DEBUG] 2020-07-24 15:11:24,859 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Click first search notify
+[DEBUG] 2020-07-24 15:11:27,835 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Associted Test: IVR_Test_IVR_Script_JDAO8
+[DEBUG] 2020-07-24 15:11:27,845 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Associated Tests: IVR_Test_IVR_Script_JDAO8Created successfully
+[DEBUG] 2020-07-24 15:11:27,946 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Clicked Assosited Test with notification and Navigate to test tab
+[INFO ] 2020-07-24 15:11:33,006 pom010_VW_Notification_Tab.Notify_Assign_To_Test_with_New_Template() - Delete button not found
+[DEBUG] 2020-07-24 15:11:37,140 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Notification Tab clicked
+[DEBUG] 2020-07-24 15:11:40,454 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Notification icon clicked
+[DEBUG] 2020-07-24 15:11:41,987 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Save' button disabled under Notification tab
+[DEBUG] 2020-07-24 15:11:42,015 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-24 15:11:42,015 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-24 15:11:43,201 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Passing Random notification name under Notification tabNotify_UWLIV
+[DEBUG] 2020-07-24 15:11:43,342 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Passing Email Addresses 'hssingh@empirix.com' under Notification tab
+[INFO ] 2020-07-24 15:11:43,457 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Save button clicked
+[INFO ] 2020-07-24 15:11:45,090 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Found load progress bar
+[DEBUG] 2020-07-24 15:11:45,106 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Save' button disabled after creating notification
+[DEBUG] 2020-07-24 15:11:45,142 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Choose either user or enter email addresses' icon is not displaying
+[DEBUG] 2020-07-24 15:11:45,158 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Delete' button enabled after creating notification
+[DEBUG] 2020-07-24 15:11:45,184 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Mail' button enabled after creating notification
+[DEBUG] 2020-07-24 15:11:45,185 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that Notification:Notify_UWLIVCreated Successfully
+[INFO ] 2020-07-24 15:11:48,960 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Found load progress bar
+[INFO ] 2020-07-24 15:11:48,994 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Mail alert displayed
+[INFO ] 2020-07-24 15:11:49,026 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that popup 'Test email sent' text appeared on popup
+[DEBUG] 2020-07-24 15:11:49,067 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Notification filter clicked
+[INFO ] 2020-07-24 15:11:49,149 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Navigate to script Tab
+[INFO ] 2020-07-24 15:11:52,675 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - found progress bar
+[INFO ] 2020-07-24 15:11:58,927 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Start Creating Script using + button
+[INFO ] 2020-07-24 15:11:59,013 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - New script creation popup appered
+[INFO ] 2020-07-24 15:11:59,013 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-24 15:11:59,017 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Clicked Yes
+[DEBUG] 2020-07-24 15:11:59,017 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that Script dropdown
+[DEBUG] 2020-07-24 15:11:59,089 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-24 15:11:59,798 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-24 15:11:59,933 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that e164disabled
+[INFO ] 2020-07-24 15:11:59,933 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Generate Radom Scriptname IVR_Script_BNUWK
+[INFO ] 2020-07-24 15:12:00,118 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Passing script name IVR_Script_BNUWK
+[INFO ] 2020-07-24 15:12:00,241 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Passing Number to Call is 18001111111
+[INFO ] 2020-07-24 15:12:00,241 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Sync issue so waiting just one second
+[INFO ] 2020-07-24 15:12:00,312 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Deleteing First PhraseHear
+[INFO ] 2020-07-24 15:12:00,312 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Sync issue so waiting just one second
+[INFO ] 2020-07-24 15:12:00,387 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Deleteing first Press Section
+[INFO ] 2020-07-24 15:12:00,387 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Sync issue so waiting just one second
+[INFO ] 2020-07-24 15:12:00,453 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Deleteing second PhraseHear
+[INFO ] 2020-07-24 15:12:01,777 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Using Action class double clicked pause button
+[INFO ] 2020-07-24 15:12:01,875 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Clicked Save button
+[INFO ] 2020-07-24 15:12:05,493 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Sync issue so waiting just ten Second
+[INFO ] 2020-07-24 15:12:05,529 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that Run button enabled
+[INFO ] 2020-07-24 15:12:05,560 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that Run button contain Run Test text
+[INFO ] 2020-07-24 15:12:05,660 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Navigate to Test Tab
+[INFO ] 2020-07-24 15:12:07,913 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Clicked Test Create icon
+[INFO ] 2020-07-24 15:12:07,913 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Start Creating Test using + button
+[INFO ] 2020-07-24 15:12:07,988 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - IVR Test Selected from Test Selection dropdown
+[INFO ] 2020-07-24 15:12:08,092 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Start Creating Test using + button
+[INFO ] 2020-07-24 15:12:08,092 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Clicked Test Create icon
+[INFO ] 2020-07-24 15:12:13,273 pom007_VW_Script_Tabs.scriptdeletion() - Navigate to script Tab
+[INFO ] 2020-07-24 15:12:20,319 pom007_VW_Script_Tabs.scriptdeletion() - Progress
+[INFO ] 2020-07-24 15:12:21,070 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:21,161 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:21,205 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:23,839 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:24,545 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:24,593 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:24,625 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:26,295 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:26,905 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:26,961 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:26,990 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:28,546 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:29,498 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:29,562 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:29,591 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:31,692 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:32,455 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:32,529 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:32,565 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:34,305 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:35,147 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:35,220 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:35,248 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:36,730 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:37,829 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:37,894 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:37,930 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:39,433 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:40,415 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:40,465 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:40,497 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:41,994 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:42,946 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:43,009 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:43,049 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:44,598 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:45,768 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:45,854 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:45,901 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:48,124 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:48,938 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:48,994 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:49,023 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:51,196 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:51,953 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:52,006 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:52,038 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:53,892 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:54,577 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:54,634 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:54,661 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:56,259 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:56,992 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:57,052 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:57,084 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:12:58,788 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:12:59,340 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:12:59,493 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:12:59,589 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:13:01,898 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:13:02,450 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:13:02,494 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:13:02,530 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:13:04,692 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-24 15:13:05,473 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-24 15:13:05,521 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-24 15:13:05,557 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-24 15:13:08,270 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[DEBUG] 2020-07-24 15:13:08,782 pom010_VW_Notification_Tab.Notifydeletion() - Notification Tab clicked
+[DEBUG] 2020-07-24 15:13:19,962 pom010_VW_Notification_Tab.Notifydeletion() - Notify not found
+[DEBUG] 2020-07-24 15:13:24,019 pom010_VW_Notification_Tab.Notifydeletion() - Clicked selected notify as delete
+[INFO ] 2020-07-24 15:13:24,026 pom010_VW_Notification_Tab.Notifydeletion() - Alert is coming
+[INFO ] 2020-07-24 15:13:24,034 pom010_VW_Notification_Tab.Notifydeletion() - Alert accepted
+[DEBUG] 2020-07-24 15:13:24,034 pom010_VW_Notification_Tab.Notifydeletion() - Delete Successfully
+[DEBUG] 2020-07-24 15:13:29,769 pom010_VW_Notification_Tab.Notifydeletion() - Clicked selected notify as delete
+[INFO ] 2020-07-24 15:13:29,769 pom010_VW_Notification_Tab.Notifydeletion() - Alert is coming
+[INFO ] 2020-07-24 15:13:29,777 pom010_VW_Notification_Tab.Notifydeletion() - Alert accepted
+[DEBUG] 2020-07-24 15:13:29,777 pom010_VW_Notification_Tab.Notifydeletion() - Delete Successfully
+[DEBUG] 2020-07-24 15:13:34,914 pom010_VW_Notification_Tab.Notifydeletion() - Clicked selected notify as delete
+[INFO ] 2020-07-24 15:13:34,918 pom010_VW_Notification_Tab.Notifydeletion() - Alert is coming
+[INFO ] 2020-07-24 15:13:34,922 pom010_VW_Notification_Tab.Notifydeletion() - Alert accepted
+[DEBUG] 2020-07-24 15:13:34,922 pom010_VW_Notification_Tab.Notifydeletion() - Delete Successfully
+[DEBUG] 2020-07-24 15:13:37,121 TC0021_login_With_Exmpirix_Admin_Sanity_Flow_27_release.applicationClose() - Application closed successfully

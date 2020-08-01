@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="resources.ExtentReporterNG"/>
+    <listener class-name="Analyzer.MyTransformer"/>
+    <listener class-name="resources.listeners"/>
+  </listeners>
+  <test name="Test Case: 001- Login Page Verification ">
+    <classes>
+      <class name="VW_TC.TC0001_login_Page_Verification"/>
+    </classes>
+  </test> <!-- Test Case: 001- Login Page Verification  -->
+  <test name="Test Case: 001- Login Page Verification (failed)">
+    <classes>
+      <class name="VW_TC.TC0001_login_Page_Verification">
+        <methods>
+          <include name="applicationClose"/>
+          <include name="logInScreenVerification"/>
+          <include name="applicationLaunch"/>
+        </methods>
+      </class> <!-- VW_TC.TC0001_login_Page_Verification -->
+    </classes>
+  </test> <!-- Test Case: 001- Login Page Verification (failed) -->
+</suite> <!-- Failed suite [Suite] -->

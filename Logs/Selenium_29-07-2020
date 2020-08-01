@@ -1,0 +1,675 @@
+[DEBUG] 2020-07-29 21:20:10,087 basePropertiesFile.intializeWebDriver() - Chrome Driver intilized successfully
+[INFO ] 2020-07-29 21:20:10,097 basePropertiesFile.intializeWebDriver() - Chrome Browser selected & Launching
+[INFO ] 2020-07-29 21:20:11,266 basePropertiesFile.VoiceWatch_login() - Screen maximized successfully
+[DEBUG] 2020-07-29 21:20:51,460 basePropertiesFile.VoiceWatch_login() - URL provided
+[INFO ] 2020-07-29 21:20:53,980 basePropertiesFile.VoiceWatch_login() - Refresing Page again
+[INFO ] 2020-07-29 21:20:54,206 basePropertiesFile.VoiceWatch_login() - Loding so refersing page again
+[DEBUG] 2020-07-29 21:20:55,526 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-29 21:21:08,876 basePropertiesFile.VoiceWatch_login() - Webpage loading
+[DEBUG] 2020-07-29 21:21:08,968 basePropertiesFile.VoiceWatch_login() - User Name Provided
+[DEBUG] 2020-07-29 21:21:09,054 basePropertiesFile.VoiceWatch_login() - Password Provided
+[DEBUG] 2020-07-29 21:21:09,130 basePropertiesFile.VoiceWatch_login() - Sign button clicked
+[DEBUG] 2020-07-29 21:21:09,130 basePropertiesFile.VoiceWatch_login() - User logged in:hari_admin2
+[DEBUG] 2020-07-29 21:21:49,828 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-29 21:21:57,339 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile dropdown clicked
+[DEBUG] 2020-07-29 21:22:00,552 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile Tab clicked
+[DEBUG] 2020-07-29 21:22:09,993 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserEmail is: hari@preempt.com
+[DEBUG] 2020-07-29 21:22:10,040 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserID is: hari_admin2
+[DEBUG] 2020-07-29 21:22:10,040 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Verified User name retrived as : hari_admin2
+[DEBUG] 2020-07-29 21:22:10,082 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User First Name is: Hari
+[DEBUG] 2020-07-29 21:22:10,110 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Last Name is: Singh
+[DEBUG] 2020-07-29 21:22:10,140 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Permission Level is: Empirix Admin
+[INFO ] 2020-07-29 21:22:10,416 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Navigate to script Tab
+[INFO ] 2020-07-29 21:22:16,225 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Found load progress bar
+[INFO ] 2020-07-29 21:22:16,506 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:22:17,860 pom007_VW_Script_Tabs.Create_run_Script_using_button() - New script creation popup appered
+[INFO ] 2020-07-29 21:22:17,860 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:22:17,860 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Clicked Yes
+[DEBUG] 2020-07-29 21:22:17,864 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:22:17,967 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-29 21:22:18,681 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-29 21:22:20,878 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Verified that e164disabled
+[INFO ] 2020-07-29 21:22:20,878 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Generate Radom Scriptname IVR_Script_ZAXBB
+[INFO ] 2020-07-29 21:22:21,065 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Passing script name IVR_Script_ZAXBB
+[INFO ] 2020-07-29 21:22:21,187 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Generate Radom script description
+[INFO ] 2020-07-29 21:22:21,309 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Passing Number to Call is 18001111111
+[INFO ] 2020-07-29 21:22:21,386 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Deleteing First PhraseHear
+[INFO ] 2020-07-29 21:22:21,460 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Deleteing first Press Section
+[INFO ] 2020-07-29 21:22:21,544 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Deleteing second PhraseHear
+[INFO ] 2020-07-29 21:22:22,903 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Using Action class double clicked pause button
+[INFO ] 2020-07-29 21:22:22,979 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Clicked Save button
+[INFO ] 2020-07-29 21:22:30,589 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Found load progress bar
+[INFO ] 2020-07-29 21:22:30,974 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Search above created Script using filter IVR_Script_ZAXBB
+[INFO ] 2020-07-29 21:22:31,073 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Just retrived the deatils of above created script IVR_Script_ZAXBB
+[INFO ] 2020-07-29 21:22:31,109 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:22:31,146 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:22:31,242 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Run Button clicked
+[INFO ] 2020-07-29 21:23:34,420 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Script Result is coming
+[INFO ] 2020-07-29 21:23:34,489 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Script Results Deatis is coming
+[INFO ] 2020-07-29 21:23:34,586 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Navigate to Call logs Tab
+[INFO ] 2020-07-29 21:23:34,642 pom007_VW_Script_Tabs.Create_run_Script_using_button() - CallLog is coming
+[INFO ] 2020-07-29 21:23:34,716 pom007_VW_Script_Tabs.Create_run_Script_using_button() - clicked above search script
+[INFO ] 2020-07-29 21:23:34,738 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:23:34,805 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Verified that select dropdown
+[INFO ] 2020-07-29 21:23:39,929 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Delete dropd is found and clicked
+[INFO ] 2020-07-29 21:23:39,967 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Delete All option selected
+[INFO ] 2020-07-29 21:23:42,470 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Clened created script successfully
+[INFO ] 2020-07-29 21:23:47,364 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Refersh application
+[INFO ] 2020-07-29 21:23:53,469 pom007_VW_Script_Tabs.Create_run_Script_using_button() - Found load progress bar
+[INFO ] 2020-07-29 21:23:53,608 pom005_VW_Tests_Tab.Create_CBM_Test() - =========================Test Creation=======================
+[INFO ] 2020-07-29 21:23:53,608 pom005_VW_Tests_Tab.Create_CBM_Test() - Navigate to Test Tab
+[INFO ] 2020-07-29 21:23:56,962 pom005_VW_Tests_Tab.Create_CBM_Test() - CBM Test Selected from Test Selection dropdown
+[INFO ] 2020-07-29 21:23:57,036 pom005_VW_Tests_Tab.Create_CBM_Test() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:24:01,444 pom005_VW_Tests_Tab.Create_CBM_Test() - Generate Radom CBM Test Name CBM_Test_5537J
+[INFO ] 2020-07-29 21:24:02,650 pom005_VW_Tests_Tab.Create_CBM_Test() - Hammer lebel selected
+[INFO ] 2020-07-29 21:24:02,885 pom005_VW_Tests_Tab.Create_CBM_Test() - Package CBM Asterisk Package selected
+[INFO ] 2020-07-29 21:24:03,053 pom005_VW_Tests_Tab.Create_CBM_Test() - Conference ID provided
+[INFO ] 2020-07-29 21:24:03,233 pom005_VW_Tests_Tab.Create_CBM_Test() - Conference Pin provided
+[INFO ] 2020-07-29 21:24:03,385 pom005_VW_Tests_Tab.Create_CBM_Test() - Number to call provided
+[INFO ] 2020-07-29 21:24:03,550 pom005_VW_Tests_Tab.Create_CBM_Test() - Total Participate provided
+[INFO ] 2020-07-29 21:24:03,766 pom005_VW_Tests_Tab.Create_CBM_Test() - clicked Save Test button
+[INFO ] 2020-07-29 21:24:06,263 pom005_VW_Tests_Tab.Create_CBM_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:24:06,318 pom005_VW_Tests_Tab.Create_CBM_Test() - Verified that Run button enabled
+[DEBUG] 2020-07-29 21:24:06,400 pom005_VW_Tests_Tab.Create_CBM_Test() - ViewResult button clicked
+[DEBUG] 2020-07-29 21:24:06,428 pom005_VW_Tests_Tab.Create_CBM_Test() - progress
+[DEBUG] 2020-07-29 21:24:17,556 pom005_VW_Tests_Tab.Create_CBM_Test() - TestNow located
+[DEBUG] 2020-07-29 21:24:22,070 pom005_VW_Tests_Tab.Create_CBM_Test() - View Configuration button clicked
+[INFO ] 2020-07-29 21:24:28,867 pom005_VW_Tests_Tab.Create_CBM_Test() - Delete button clicked under Test Tab
+[INFO ] 2020-07-29 21:24:28,983 pom005_VW_Tests_Tab.Create_CBM_Test() - Delete Test Successfully
+[INFO ] 2020-07-29 21:24:30,823 pom005_VW_Tests_Tab.Create_CBM_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:24:30,934 pom005_VW_Tests_Tab.Delete_CBM_Test() - =========================Test Creation=======================
+[INFO ] 2020-07-29 21:24:30,934 pom005_VW_Tests_Tab.Delete_CBM_Test() - Navigate to Test Tab
+[INFO ] 2020-07-29 21:24:31,178 pom005_VW_Tests_Tab.Delete_CBM_Test() - IVR Test Selected from Test Selection dropdown
+[INFO ] 2020-07-29 21:24:31,250 pom005_VW_Tests_Tab.Delete_CBM_Test() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:24:33,814 pom005_VW_Tests_Tab.Delete_CBM_Test() - Generate Radom CBM Test Name CBM_Test_HQZEJ
+[INFO ] 2020-07-29 21:24:34,095 pom005_VW_Tests_Tab.Delete_CBM_Test() - Hammer lebel selected
+[INFO ] 2020-07-29 21:24:34,294 pom005_VW_Tests_Tab.Delete_CBM_Test() - Package CBM Asterisk Package selected
+[INFO ] 2020-07-29 21:24:34,466 pom005_VW_Tests_Tab.Delete_CBM_Test() - Conference ID provided
+[INFO ] 2020-07-29 21:24:34,666 pom005_VW_Tests_Tab.Delete_CBM_Test() - Conference Pin provided
+[INFO ] 2020-07-29 21:24:34,811 pom005_VW_Tests_Tab.Delete_CBM_Test() - Number to call provided
+[INFO ] 2020-07-29 21:24:34,999 pom005_VW_Tests_Tab.Delete_CBM_Test() - Total Participate provided
+[INFO ] 2020-07-29 21:24:35,211 pom005_VW_Tests_Tab.Delete_CBM_Test() - clicked Save Test button
+[INFO ] 2020-07-29 21:24:37,149 pom005_VW_Tests_Tab.Delete_CBM_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:24:37,233 pom005_VW_Tests_Tab.Delete_CBM_Test() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:24:41,621 pom005_VW_Tests_Tab.Delete_CBM_Test() - Delete button clicked under Test Tab
+[INFO ] 2020-07-29 21:24:41,721 pom005_VW_Tests_Tab.Delete_CBM_Test() - Delete Test Successfully
+[INFO ] 2020-07-29 21:24:44,060 pom005_VW_Tests_Tab.Delete_CBM_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:24:44,143 pom005_VW_Tests_Tab.Update_CBM_Test() - =========================Test Creation=======================
+[INFO ] 2020-07-29 21:24:44,143 pom005_VW_Tests_Tab.Update_CBM_Test() - Navigate to Test Tab
+[INFO ] 2020-07-29 21:24:44,280 pom005_VW_Tests_Tab.Update_CBM_Test() - IVR Test Selected from Test Selection dropdown
+[INFO ] 2020-07-29 21:24:44,351 pom005_VW_Tests_Tab.Update_CBM_Test() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:24:47,411 pom005_VW_Tests_Tab.Update_CBM_Test() - Generate Radom CBM Test Name CBM_Test_ZIXXY
+[INFO ] 2020-07-29 21:24:47,663 pom005_VW_Tests_Tab.Update_CBM_Test() - Hammer lebel selected
+[INFO ] 2020-07-29 21:24:47,847 pom005_VW_Tests_Tab.Update_CBM_Test() - Package CBM Asterisk Package selected
+[INFO ] 2020-07-29 21:24:48,003 pom005_VW_Tests_Tab.Update_CBM_Test() - Conference ID provided
+[INFO ] 2020-07-29 21:24:48,179 pom005_VW_Tests_Tab.Update_CBM_Test() - Conference Pin provided
+[INFO ] 2020-07-29 21:24:48,323 pom005_VW_Tests_Tab.Update_CBM_Test() - Number to call provided
+[INFO ] 2020-07-29 21:24:48,491 pom005_VW_Tests_Tab.Update_CBM_Test() - Total Participate provided
+[INFO ] 2020-07-29 21:24:48,671 pom005_VW_Tests_Tab.Update_CBM_Test() - clicked Save Test button
+[INFO ] 2020-07-29 21:24:51,131 pom005_VW_Tests_Tab.Update_CBM_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:24:51,265 pom005_VW_Tests_Tab.Update_CBM_Test() - View Button enabled
+[INFO ] 2020-07-29 21:24:51,321 pom005_VW_Tests_Tab.Update_CBM_Test() - Verified that Run button enabled
+[DEBUG] 2020-07-29 21:24:51,530 pom005_VW_Tests_Tab.Update_CBM_Test() - ViewResult button clicked
+[DEBUG] 2020-07-29 21:24:51,620 pom005_VW_Tests_Tab.Update_CBM_Test() - progress
+[DEBUG] 2020-07-29 21:24:52,647 pom005_VW_Tests_Tab.Update_CBM_Test() - TestNow located
+[DEBUG] 2020-07-29 21:24:56,797 pom005_VW_Tests_Tab.Update_CBM_Test() - View Configuration button clicked
+[INFO ] 2020-07-29 21:25:03,043 pom005_VW_Tests_Tab.Update_CBM_Test() - Delete button clicked under Test Tab
+[INFO ] 2020-07-29 21:25:03,184 pom005_VW_Tests_Tab.Update_CBM_Test() - Update Test Name
+[INFO ] 2020-07-29 21:25:04,240 pom005_VW_Tests_Tab.Update_CBM_Test() - clicked Save Test button
+[INFO ] 2020-07-29 21:25:06,096 pom005_VW_Tests_Tab.Update_CBM_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:25:06,096 pom005_VW_Tests_Tab.Update_CBM_Test() - Test Updated successsfully
+[INFO ] 2020-07-29 21:25:07,138 pom005_VW_Tests_Tab.Update_CBM_Test() - Delete button clicked under Test Tab
+[INFO ] 2020-07-29 21:25:07,181 pom005_VW_Tests_Tab.Update_CBM_Test() - Delete Test Successfully
+[INFO ] 2020-07-29 21:25:08,967 pom005_VW_Tests_Tab.Update_CBM_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:25:09,091 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - =========================Test Creation=======================
+[INFO ] 2020-07-29 21:25:09,095 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Navigate to Test Tab
+[INFO ] 2020-07-29 21:25:09,318 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - CBM Test Selected from Test Selection dropdown
+[INFO ] 2020-07-29 21:25:09,390 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:25:13,042 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Generate Radom CBM Test Name CBM_Test_NM00X
+[INFO ] 2020-07-29 21:25:13,299 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Hammer lebel selected
+[INFO ] 2020-07-29 21:25:13,488 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Package CBM Asterisk Package selected
+[INFO ] 2020-07-29 21:25:13,656 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Conference ID provided
+[INFO ] 2020-07-29 21:25:13,832 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Conference Pin provided
+[INFO ] 2020-07-29 21:25:13,969 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Number to call provided
+[INFO ] 2020-07-29 21:25:14,136 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Total Participate provided
+[INFO ] 2020-07-29 21:25:14,349 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - clicked Save Test button
+[INFO ] 2020-07-29 21:25:16,145 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - found progress bar loading
+[INFO ] 2020-07-29 21:25:16,226 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Verified that Run button enabled
+[DEBUG] 2020-07-29 21:25:16,411 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - ViewResult button clicked
+[DEBUG] 2020-07-29 21:25:16,439 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - progress
+[DEBUG] 2020-07-29 21:25:17,869 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - TestNow Clicked located
+[DEBUG] 2020-07-29 21:25:17,894 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - TestNow button clicked
+[INFO ] 2020-07-29 21:26:15,748 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Test Result Not found 'Let try one more time'
+[INFO ] 2020-07-29 21:26:40,582 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Refersh Web Page
+[INFO ] 2020-07-29 21:26:43,888 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Test Result is displying on dashboard_2
+[INFO ] 2020-07-29 21:26:43,908 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Test Result is enabled on dashboard_2
+[INFO ] 2020-07-29 21:26:43,952 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Verified that Download CSV button is displayed on dashboard_2
+[INFO ] 2020-07-29 21:26:43,972 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Verified that Download CSV button is enabled on dashboard_2
+[DEBUG] 2020-07-29 21:26:48,647 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - View Configuration button clicked
+[INFO ] 2020-07-29 21:26:55,628 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Delete button clicked under Test Tab
+[INFO ] 2020-07-29 21:26:55,747 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - Delete Test Successfully
+[INFO ] 2020-07-29 21:26:58,054 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Asterisk_Meeting_PKG() - found progress bar loading
+[INFO ] 2020-07-29 21:26:58,172 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - =========================Test Creation=======================
+[INFO ] 2020-07-29 21:26:58,172 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Navigate to Test Tab
+[INFO ] 2020-07-29 21:26:58,374 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - CBM Test Selected from Test Selection dropdown
+[INFO ] 2020-07-29 21:26:58,446 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:27:01,139 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Generate Radom CBM Test Name CBM_Test_ZJO3U
+[INFO ] 2020-07-29 21:27:01,412 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Hammer lebel selected
+[INFO ] 2020-07-29 21:27:01,612 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Package CBM Asterisk Package selected
+[INFO ] 2020-07-29 21:27:01,880 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Conference ID provided
+[INFO ] 2020-07-29 21:27:02,050 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Conference Pin provided
+[INFO ] 2020-07-29 21:27:02,185 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Number to call provided
+[INFO ] 2020-07-29 21:27:02,365 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Total Participate provided
+[INFO ] 2020-07-29 21:27:02,573 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - clicked Save Test button
+[INFO ] 2020-07-29 21:27:05,425 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - found progress bar loading
+[INFO ] 2020-07-29 21:27:05,449 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Verified that Run button enabled
+[DEBUG] 2020-07-29 21:27:05,525 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - ViewResult button clicked
+[DEBUG] 2020-07-29 21:27:05,556 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - progress
+[DEBUG] 2020-07-29 21:27:07,195 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - TestNow Clicked located
+[DEBUG] 2020-07-29 21:27:07,219 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - TestNow button clicked
+[INFO ] 2020-07-29 21:28:03,846 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Test Result Not found 'Let try one more time'
+[INFO ] 2020-07-29 21:28:29,308 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Refersh Web Page
+[INFO ] 2020-07-29 21:28:32,317 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Test Result is displying on dashboard_2
+[INFO ] 2020-07-29 21:28:32,337 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Test Result is enabled on dashboard_2
+[INFO ] 2020-07-29 21:28:32,381 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Verified that Download CSV button is displayed on dashboard_2
+[INFO ] 2020-07-29 21:28:32,405 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Verified that Download CSV button is enabled on dashboard_2
+[DEBUG] 2020-07-29 21:28:37,423 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - View Configuration button clicked
+[INFO ] 2020-07-29 21:28:43,696 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Delete button clicked under Test Tab
+[INFO ] 2020-07-29 21:28:43,802 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - Delete Test Successfully
+[INFO ] 2020-07-29 21:28:46,054 pom005_VW_Tests_Tab.CBM_Test_Now_Using_CB_Webinar_Meeting_PKG() - found progress bar loading
+[INFO ] 2020-07-29 21:28:46,361 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Navigate to script Tab
+[INFO ] 2020-07-29 21:28:52,401 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Found load progress bar
+[INFO ] 2020-07-29 21:28:52,615 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:28:52,667 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - New script creation popup appered
+[INFO ] 2020-07-29 21:28:52,667 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:28:52,667 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Clicked Yes
+[DEBUG] 2020-07-29 21:28:52,667 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:28:52,791 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that E2E Script selected from dropdown
+[DEBUG] 2020-07-29 21:28:53,280 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that Go button clicked while select E2E Scriptn
+[DEBUG] 2020-07-29 21:28:54,214 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that numberToCall button clicked while select creating Script
+[DEBUG] 2020-07-29 21:28:55,298 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that e164disabled
+[INFO ] 2020-07-29 21:28:55,298 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Generate Radom Scriptname E2E_Script_659JA
+[INFO ] 2020-07-29 21:28:55,508 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Passing script name E2E_Script_659JA
+[INFO ] 2020-07-29 21:28:55,608 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Passing Number to Call is 18001111111
+[INFO ] 2020-07-29 21:28:56,256 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Clicked Save button
+[INFO ] 2020-07-29 21:29:03,213 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Found load progress bar
+[INFO ] 2020-07-29 21:29:03,273 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Slide button clicked
+[INFO ] 2020-07-29 21:29:03,626 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Search above created Script using filter E2E_Script_659JA
+[INFO ] 2020-07-29 21:29:03,738 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Just retrived the deatils of above created script E2E_Script_659JA
+[INFO ] 2020-07-29 21:29:03,762 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:29:03,794 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:29:03,874 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Run Button clicked
+[INFO ] 2020-07-29 21:30:07,407 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Script Result is coming
+[INFO ] 2020-07-29 21:30:07,448 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Script Results Deatis is coming
+[INFO ] 2020-07-29 21:30:07,535 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Navigate to Call logs Tab
+[INFO ] 2020-07-29 21:30:08,654 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - CallLog is coming
+[INFO ] 2020-07-29 21:30:08,743 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - clicked above search script
+[INFO ] 2020-07-29 21:30:08,773 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:30:08,839 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that select dropdown
+[INFO ] 2020-07-29 21:30:14,079 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Delete dropd is found and clicked
+[INFO ] 2020-07-29 21:30:14,136 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Delete All option selected
+[INFO ] 2020-07-29 21:30:16,613 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Clened created script successfully
+[INFO ] 2020-07-29 21:30:21,544 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Refersh application
+[INFO ] 2020-07-29 21:30:26,457 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Found load progress bar
+[INFO ] 2020-07-29 21:30:26,612 pom007_VW_Script_Tabs.DeleteScriptAllData() - Navigate to script Tab
+[INFO ] 2020-07-29 21:30:31,087 pom007_VW_Script_Tabs.DeleteScriptAllData() - found progress bar
+[INFO ] 2020-07-29 21:30:31,243 pom007_VW_Script_Tabs.DeleteScriptAllData() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:30:31,320 pom007_VW_Script_Tabs.DeleteScriptAllData() - New script creation popup appered
+[INFO ] 2020-07-29 21:30:31,320 pom007_VW_Script_Tabs.DeleteScriptAllData() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:30:31,320 pom007_VW_Script_Tabs.DeleteScriptAllData() - Clicked Yes
+[DEBUG] 2020-07-29 21:30:31,320 pom007_VW_Script_Tabs.DeleteScriptAllData() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:30:31,396 pom007_VW_Script_Tabs.DeleteScriptAllData() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-29 21:30:32,262 pom007_VW_Script_Tabs.DeleteScriptAllData() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-29 21:30:32,399 pom007_VW_Script_Tabs.DeleteScriptAllData() - Verified that e164disabled
+[INFO ] 2020-07-29 21:30:32,399 pom007_VW_Script_Tabs.DeleteScriptAllData() - Generate Radom Scriptname IVR_Script_1ZTCD
+[INFO ] 2020-07-29 21:30:32,591 pom007_VW_Script_Tabs.DeleteScriptAllData() - Passing script name IVR_Script_1ZTCD
+[INFO ] 2020-07-29 21:30:32,708 pom007_VW_Script_Tabs.DeleteScriptAllData() - Generate Radom script description
+[INFO ] 2020-07-29 21:30:32,824 pom007_VW_Script_Tabs.DeleteScriptAllData() - Passing Number to Call is 18001111111
+[INFO ] 2020-07-29 21:30:32,824 pom007_VW_Script_Tabs.DeleteScriptAllData() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:30:32,900 pom007_VW_Script_Tabs.DeleteScriptAllData() - Deleteing First PhraseHear
+[INFO ] 2020-07-29 21:30:32,900 pom007_VW_Script_Tabs.DeleteScriptAllData() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:30:32,972 pom007_VW_Script_Tabs.DeleteScriptAllData() - Deleteing first Press Section
+[INFO ] 2020-07-29 21:30:32,972 pom007_VW_Script_Tabs.DeleteScriptAllData() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:30:33,040 pom007_VW_Script_Tabs.DeleteScriptAllData() - Deleteing second PhraseHear
+[INFO ] 2020-07-29 21:30:34,485 pom007_VW_Script_Tabs.DeleteScriptAllData() - Using Action class double clicked pause button
+[INFO ] 2020-07-29 21:30:34,553 pom007_VW_Script_Tabs.DeleteScriptAllData() - Clicked Save button
+[INFO ] 2020-07-29 21:30:39,105 pom007_VW_Script_Tabs.DeleteScriptAllData() - Found load progress bar
+[INFO ] 2020-07-29 21:30:39,410 pom007_VW_Script_Tabs.DeleteScriptAllData() - Search above created Script using filter IVR_Script_1ZTCD
+[INFO ] 2020-07-29 21:30:39,502 pom007_VW_Script_Tabs.DeleteScriptAllData() - Just retrived the deatils of above created script IVR_Script_1ZTCD
+[INFO ] 2020-07-29 21:30:39,534 pom007_VW_Script_Tabs.DeleteScriptAllData() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:30:39,566 pom007_VW_Script_Tabs.DeleteScriptAllData() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:30:39,634 pom007_VW_Script_Tabs.DeleteScriptAllData() - Verified that select dropdown
+[INFO ] 2020-07-29 21:30:39,714 pom007_VW_Script_Tabs.DeleteScriptAllData() - Verified that Clicked delete button
+[INFO ] 2020-07-29 21:30:39,750 pom007_VW_Script_Tabs.DeleteScriptAllData() - Verified that select delete all data
+[INFO ] 2020-07-29 21:30:41,417 pom007_VW_Script_Tabs.DeleteScriptAllData() - delete successfully
+[INFO ] 2020-07-29 21:30:45,723 pom007_VW_Script_Tabs.DeleteScriptAllData() - Refersh application
+[INFO ] 2020-07-29 21:30:50,282 pom007_VW_Script_Tabs.DeleteScriptAllData() - Found load progress bar
+[INFO ] 2020-07-29 21:30:50,438 pom007_VW_Script_Tabs.DeleteScriptOnly() - Navigate to script Tab
+[INFO ] 2020-07-29 21:30:53,899 pom007_VW_Script_Tabs.DeleteScriptOnly() - Found load progress bar
+[INFO ] 2020-07-29 21:30:54,212 pom007_VW_Script_Tabs.DeleteScriptOnly() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:30:54,936 pom007_VW_Script_Tabs.DeleteScriptOnly() - New script creation popup appered
+[INFO ] 2020-07-29 21:30:54,940 pom007_VW_Script_Tabs.DeleteScriptOnly() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:30:54,940 pom007_VW_Script_Tabs.DeleteScriptOnly() - Clicked Yes
+[DEBUG] 2020-07-29 21:30:54,940 pom007_VW_Script_Tabs.DeleteScriptOnly() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:30:55,052 pom007_VW_Script_Tabs.DeleteScriptOnly() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-29 21:30:55,797 pom007_VW_Script_Tabs.DeleteScriptOnly() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-29 21:30:55,929 pom007_VW_Script_Tabs.DeleteScriptOnly() - Verified that e164disabled
+[INFO ] 2020-07-29 21:30:56,060 pom007_VW_Script_Tabs.DeleteScriptOnly() - Generate Radom Scriptname IVR_Script_KLZLN
+[INFO ] 2020-07-29 21:30:56,241 pom007_VW_Script_Tabs.DeleteScriptOnly() - Passing script name IVR_Script_KLZLN
+[INFO ] 2020-07-29 21:30:56,380 pom007_VW_Script_Tabs.DeleteScriptOnly() - Generate Radom script description
+[INFO ] 2020-07-29 21:30:56,497 pom007_VW_Script_Tabs.DeleteScriptOnly() - Passing Number to Call is 18002051994
+[INFO ] 2020-07-29 21:30:56,497 pom007_VW_Script_Tabs.DeleteScriptOnly() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:30:56,596 pom007_VW_Script_Tabs.DeleteScriptOnly() - Deleteing First PhraseHear
+[INFO ] 2020-07-29 21:30:56,596 pom007_VW_Script_Tabs.DeleteScriptOnly() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:30:56,669 pom007_VW_Script_Tabs.DeleteScriptOnly() - Deleteing first Press Section
+[INFO ] 2020-07-29 21:30:56,669 pom007_VW_Script_Tabs.DeleteScriptOnly() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:30:56,746 pom007_VW_Script_Tabs.DeleteScriptOnly() - Deleteing second PhraseHear
+[INFO ] 2020-07-29 21:30:58,028 pom007_VW_Script_Tabs.DeleteScriptOnly() - Using Action class double clicked pause button
+[INFO ] 2020-07-29 21:30:58,104 pom007_VW_Script_Tabs.DeleteScriptOnly() - Clicked Save button
+[INFO ] 2020-07-29 21:31:02,267 pom007_VW_Script_Tabs.DeleteScriptOnly() - Found load progress bar
+[INFO ] 2020-07-29 21:31:02,495 pom007_VW_Script_Tabs.DeleteScriptOnly() - Search above created Script using filter IVR_Script_KLZLN
+[INFO ] 2020-07-29 21:31:02,603 pom007_VW_Script_Tabs.DeleteScriptOnly() - Just retrived the deatils of above created script IVR_Script_KLZLN
+[INFO ] 2020-07-29 21:31:02,636 pom007_VW_Script_Tabs.DeleteScriptOnly() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:31:02,664 pom007_VW_Script_Tabs.DeleteScriptOnly() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:31:02,742 pom007_VW_Script_Tabs.DeleteScriptOnly() - Verified that select dropdown
+[INFO ] 2020-07-29 21:31:02,815 pom007_VW_Script_Tabs.DeleteScriptOnly() - Verified that Clicked delete button
+[INFO ] 2020-07-29 21:31:02,863 pom007_VW_Script_Tabs.DeleteScriptOnly() - Verified that select delete all data
+[INFO ] 2020-07-29 21:31:04,970 pom007_VW_Script_Tabs.DeleteScriptOnly() - delete successfully
+[INFO ] 2020-07-29 21:31:09,510 pom007_VW_Script_Tabs.DeleteScriptOnly() - Refersh application
+[INFO ] 2020-07-29 21:31:14,334 pom007_VW_Script_Tabs.DeleteScriptOnly() - Found load progress bar
+[INFO ] 2020-07-29 21:31:14,494 pom007_VW_Script_Tabs.CopyScript() - Navigate to script Tab
+[INFO ] 2020-07-29 21:31:18,052 pom007_VW_Script_Tabs.CopyScript() - Found load progress bar
+[INFO ] 2020-07-29 21:31:18,381 pom007_VW_Script_Tabs.CopyScript() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:31:18,587 pom007_VW_Script_Tabs.CopyScript() - New script creation popup appered
+[INFO ] 2020-07-29 21:31:18,587 pom007_VW_Script_Tabs.CopyScript() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:31:18,587 pom007_VW_Script_Tabs.CopyScript() - Clicked Yes
+[DEBUG] 2020-07-29 21:31:18,587 pom007_VW_Script_Tabs.CopyScript() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:31:18,672 pom007_VW_Script_Tabs.CopyScript() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-29 21:31:19,247 pom007_VW_Script_Tabs.CopyScript() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-29 21:31:19,381 pom007_VW_Script_Tabs.CopyScript() - Verified that e164disabled
+[INFO ] 2020-07-29 21:31:19,381 pom007_VW_Script_Tabs.CopyScript() - Generate Radom Scriptname IVR_Script_CSDFN
+[INFO ] 2020-07-29 21:31:19,565 pom007_VW_Script_Tabs.CopyScript() - Passing script name IVR_Script_CSDFN
+[INFO ] 2020-07-29 21:31:19,684 pom007_VW_Script_Tabs.CopyScript() - Generate Radom script description
+[INFO ] 2020-07-29 21:31:19,800 pom007_VW_Script_Tabs.CopyScript() - Passing Number to Call is 18002041994
+[INFO ] 2020-07-29 21:31:19,800 pom007_VW_Script_Tabs.CopyScript() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:31:19,900 pom007_VW_Script_Tabs.CopyScript() - Deleteing First PhraseHear
+[INFO ] 2020-07-29 21:31:19,900 pom007_VW_Script_Tabs.CopyScript() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:31:19,976 pom007_VW_Script_Tabs.CopyScript() - Deleteing first Press Section
+[INFO ] 2020-07-29 21:31:19,977 pom007_VW_Script_Tabs.CopyScript() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:31:20,047 pom007_VW_Script_Tabs.CopyScript() - Deleteing second PhraseHear
+[INFO ] 2020-07-29 21:31:21,383 pom007_VW_Script_Tabs.CopyScript() - Using Action class double clicked pause button
+[INFO ] 2020-07-29 21:31:21,450 pom007_VW_Script_Tabs.CopyScript() - Clicked Save button
+[INFO ] 2020-07-29 21:31:26,025 pom007_VW_Script_Tabs.CopyScript() - Sync issue so waiting just ten Second
+[INFO ] 2020-07-29 21:31:26,233 pom007_VW_Script_Tabs.CopyScript() - Search above created Script using filter IVR_Script_CSDFN
+[INFO ] 2020-07-29 21:31:26,333 pom007_VW_Script_Tabs.CopyScript() - Just retrived the deatils of above created script IVR_Script_CSDFN
+[INFO ] 2020-07-29 21:31:26,361 pom007_VW_Script_Tabs.CopyScript() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:31:26,393 pom007_VW_Script_Tabs.CopyScript() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:31:26,498 pom007_VW_Script_Tabs.CopyScript() - Verified that select dropdown
+[INFO ] 2020-07-29 21:31:26,594 pom007_VW_Script_Tabs.CopyScript() - Verified copyScript clicked from dropdown
+[INFO ] 2020-07-29 21:31:30,112 pom007_VW_Script_Tabs.CopyScript() - Found load progress bar
+[INFO ] 2020-07-29 21:31:30,344 pom007_VW_Script_Tabs.CopyScript() - copied added in search
+[INFO ] 2020-07-29 21:31:30,449 pom007_VW_Script_Tabs.CopyScript() - first copied search successfully
+[INFO ] 2020-07-29 21:31:30,469 pom007_VW_Script_Tabs.CopyScript() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:31:30,520 pom007_VW_Script_Tabs.CopyScript() - Verified that select dropdown
+[INFO ] 2020-07-29 21:31:35,794 pom007_VW_Script_Tabs.CopyScript() - Verified that Clicked delete button
+[INFO ] 2020-07-29 21:31:35,853 pom007_VW_Script_Tabs.CopyScript() - Verified that select delete all data
+[INFO ] 2020-07-29 21:31:38,187 pom007_VW_Script_Tabs.CopyScript() - delete successfully
+[INFO ] 2020-07-29 21:31:43,046 pom007_VW_Script_Tabs.CopyScript() - Refersh application
+[INFO ] 2020-07-29 21:31:48,735 pom007_VW_Script_Tabs.CopyScript() - Found load progress bar
+[INFO ] 2020-07-29 21:31:49,064 pom007_VW_Script_Tabs.UpdateScript() - Navigate to script Tab
+[INFO ] 2020-07-29 21:31:51,904 pom007_VW_Script_Tabs.UpdateScript() - Found load progress bar
+[INFO ] 2020-07-29 21:31:52,266 pom007_VW_Script_Tabs.UpdateScript() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:31:52,375 pom007_VW_Script_Tabs.UpdateScript() - New script creation popup appered
+[INFO ] 2020-07-29 21:31:52,375 pom007_VW_Script_Tabs.UpdateScript() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:31:52,375 pom007_VW_Script_Tabs.UpdateScript() - Clicked Yes
+[DEBUG] 2020-07-29 21:31:52,375 pom007_VW_Script_Tabs.UpdateScript() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:31:52,451 pom007_VW_Script_Tabs.UpdateScript() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-29 21:31:53,352 pom007_VW_Script_Tabs.UpdateScript() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-29 21:31:53,480 pom007_VW_Script_Tabs.UpdateScript() - Verified that e164disabled
+[INFO ] 2020-07-29 21:31:53,480 pom007_VW_Script_Tabs.UpdateScript() - Generate Radom Scriptname IVR_Script_Update_GASSF
+[INFO ] 2020-07-29 21:31:53,725 pom007_VW_Script_Tabs.UpdateScript() - Passing script name IVR_Script_Update_GASSF
+[INFO ] 2020-07-29 21:31:53,841 pom007_VW_Script_Tabs.UpdateScript() - Generate Radom script description
+[INFO ] 2020-07-29 21:31:53,965 pom007_VW_Script_Tabs.UpdateScript() - Passing Number to Call is 18002051994
+[INFO ] 2020-07-29 21:31:53,965 pom007_VW_Script_Tabs.UpdateScript() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:31:54,058 pom007_VW_Script_Tabs.UpdateScript() - Deleteing First PhraseHear
+[INFO ] 2020-07-29 21:31:54,058 pom007_VW_Script_Tabs.UpdateScript() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:31:54,130 pom007_VW_Script_Tabs.UpdateScript() - Deleteing first Press Section
+[INFO ] 2020-07-29 21:31:54,130 pom007_VW_Script_Tabs.UpdateScript() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:31:54,205 pom007_VW_Script_Tabs.UpdateScript() - Deleteing second PhraseHear
+[INFO ] 2020-07-29 21:31:55,519 pom007_VW_Script_Tabs.UpdateScript() - Using Action class double clicked pause button
+[INFO ] 2020-07-29 21:31:55,591 pom007_VW_Script_Tabs.UpdateScript() - Clicked Save button
+[INFO ] 2020-07-29 21:32:00,193 pom007_VW_Script_Tabs.UpdateScript() - Found load progress bar
+[INFO ] 2020-07-29 21:32:00,450 pom007_VW_Script_Tabs.UpdateScript() - Search above created Script using filter IVR_Script_Update_GASSF
+[INFO ] 2020-07-29 21:32:00,558 pom007_VW_Script_Tabs.UpdateScript() - Just retrived the deatils of above created script IVR_Script_Update_GASSF
+[INFO ] 2020-07-29 21:32:00,590 pom007_VW_Script_Tabs.UpdateScript() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:32:00,620 pom007_VW_Script_Tabs.UpdateScript() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:32:05,143 pom007_VW_Script_Tabs.UpdateScript() - Found load progress bar
+[INFO ] 2020-07-29 21:32:05,172 pom007_VW_Script_Tabs.UpdateScript() - Verified that Run button contain Run Test text
+[INFO ] 2020-07-29 21:32:05,247 pom007_VW_Script_Tabs.UpdateScript() - Verified that select dropdown
+[INFO ] 2020-07-29 21:32:10,425 pom007_VW_Script_Tabs.UpdateScript() - Verified that Clicked delete button
+[INFO ] 2020-07-29 21:32:10,479 pom007_VW_Script_Tabs.UpdateScript() - Verified that select delete all data
+[INFO ] 2020-07-29 21:32:12,927 pom007_VW_Script_Tabs.UpdateScript() - delete successfully
+[INFO ] 2020-07-29 21:32:17,397 pom007_VW_Script_Tabs.UpdateScript() - Refersh application
+[INFO ] 2020-07-29 21:32:22,369 pom007_VW_Script_Tabs.UpdateScript() - Found load progress bar
+[INFO ] 2020-07-29 21:32:22,513 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - clicked ScriptTab
+[INFO ] 2020-07-29 21:32:25,221 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Found load progress bar
+[INFO ] 2020-07-29 21:32:25,332 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - SU Clicked
+[INFO ] 2020-07-29 21:32:28,336 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - clicked ScriptUploadTab
+[INFO ] 2020-07-29 21:32:28,500 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - clicked SU button clicked
+[INFO ] 2020-07-29 21:32:28,628 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - New script creation popup appered
+[INFO ] 2020-07-29 21:32:28,628 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:32:28,628 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Clicked Yes
+[INFO ] 2020-07-29 21:32:28,709 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Browse from local
+[INFO ] 2020-07-29 21:32:30,754 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Uploaded using Autoit Script done
+[INFO ] 2020-07-29 21:32:31,126 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - clicked save button
+[INFO ] 2020-07-29 21:32:35,686 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Found load progress bar
+[INFO ] 2020-07-29 21:32:35,736 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Waiting for Run button
+[INFO ] 2020-07-29 21:32:35,826 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Run button displayed
+[INFO ] 2020-07-29 21:32:35,890 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Run button enabled
+[INFO ] 2020-07-29 21:32:36,069 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Verified that select dropdown
+[INFO ] 2020-07-29 21:32:36,140 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Verified that Clicked delete button
+[INFO ] 2020-07-29 21:32:36,239 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Verified that select delete all data
+[INFO ] 2020-07-29 21:32:38,491 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Found load progress bar
+[INFO ] 2020-07-29 21:32:43,236 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Refersh application
+[INFO ] 2020-07-29 21:32:49,328 pom007_VW_Script_Tabs.Create_Delete_ScriptByScriptUpload() - Found load progress bar
+[INFO ] 2020-07-29 21:32:49,530 pom007_VW_Script_Tabs.CreateCSVTransformer() - clicked ScriptTab
+[INFO ] 2020-07-29 21:32:52,478 pom007_VW_Script_Tabs.CreateCSVTransformer() - Found load progress bar
+[INFO ] 2020-07-29 21:32:54,478 pom007_VW_Script_Tabs.CreateCSVTransformer() - Inprogress
+[INFO ] 2020-07-29 21:32:54,641 pom007_VW_Script_Tabs.CreateCSVTransformer() - clicked csvTranformer
+[INFO ] 2020-07-29 21:32:55,751 pom007_VW_Script_Tabs.CreateCSVTransformer() - CSV Transformer clicked
+[INFO ] 2020-07-29 21:32:56,773 pom007_VW_Script_Tabs.CreateCSVTransformer() - Uploaded using Autoit Script done
+[INFO ] 2020-07-29 21:32:56,773 pom007_VW_Script_Tabs.CreateCSVTransformer() - csv file browse from local
+[INFO ] 2020-07-29 21:32:57,292 pom007_VW_Script_Tabs.CreateCSVTransformer() - found Transfomer button element
+[INFO ] 2020-07-29 21:32:57,378 pom007_VW_Script_Tabs.CreateCSVTransformer() - Transfomer button enabled
+[INFO ] 2020-07-29 21:32:57,454 pom007_VW_Script_Tabs.CreateCSVTransformer() - CSV Transform clicked Successfully
+[INFO ] 2020-07-29 21:33:00,264 pom007_VW_Script_Tabs.CreateCSVTransformer() - Found load progress bar
+[INFO ] 2020-07-29 21:33:03,336 pom007_VW_Script_Tabs.CreateCSVTransformer() - clicked ScriptTab
+[INFO ] 2020-07-29 21:33:05,074 pom007_VW_Script_Tabs.CreateCSVTransformer() - Found load progress bar
+[INFO ] 2020-07-29 21:33:05,341 pom007_VW_Script_Tabs.CreateCSVTransformer() - Again Navigate to CSV Transform
+[INFO ] 2020-07-29 21:33:05,345 pom007_VW_Script_Tabs.CreateCSVTransformer() - clicked CSV Transfer success
+[INFO ] 2020-07-29 21:33:08,536 pom007_VW_Script_Tabs.CreateCSVTransformer() - Navigate to script tab
+[INFO ] 2020-07-29 21:33:08,642 pom005_VW_Tests_Tab.CreateTest_using_button() - Navigate to Script Tab
+[INFO ] 2020-07-29 21:33:08,642 pom005_VW_Tests_Tab.CreateTest_using_button() - =================New Script Creation===========================
+[INFO ] 2020-07-29 21:33:11,498 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-29 21:33:11,619 pom005_VW_Tests_Tab.CreateTest_using_button() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:33:11,689 pom005_VW_Tests_Tab.CreateTest_using_button() - New script creation popup appered
+[INFO ] 2020-07-29 21:33:11,689 pom005_VW_Tests_Tab.CreateTest_using_button() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:33:11,689 pom005_VW_Tests_Tab.CreateTest_using_button() - Clicked Yes
+[DEBUG] 2020-07-29 21:33:11,689 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:33:11,764 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-29 21:33:12,590 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-29 21:33:12,722 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that e164disabled
+[INFO ] 2020-07-29 21:33:12,722 pom005_VW_Tests_Tab.CreateTest_using_button() - Generate Radom Scriptname IVR_Script_G8KN7
+[INFO ] 2020-07-29 21:33:12,954 pom005_VW_Tests_Tab.CreateTest_using_button() - Script Name Passing to script name field is: IVR_Script_G8KN7
+[INFO ] 2020-07-29 21:33:13,070 pom005_VW_Tests_Tab.CreateTest_using_button() - Generate Radom script description
+[INFO ] 2020-07-29 21:33:13,190 pom005_VW_Tests_Tab.CreateTest_using_button() - Passing Number to Call is 18002051994
+[INFO ] 2020-07-29 21:33:13,271 pom005_VW_Tests_Tab.CreateTest_using_button() - Deleteing First PhraseHear
+[INFO ] 2020-07-29 21:33:13,344 pom005_VW_Tests_Tab.CreateTest_using_button() - Deleteing first Press Section
+[INFO ] 2020-07-29 21:33:13,419 pom005_VW_Tests_Tab.CreateTest_using_button() - Deleteing second PhraseHear
+[INFO ] 2020-07-29 21:33:14,684 pom005_VW_Tests_Tab.CreateTest_using_button() - Double Click on pause button Using Action class
+[INFO ] 2020-07-29 21:33:14,864 pom005_VW_Tests_Tab.CreateTest_using_button() - Clicked script Save button
+[INFO ] 2020-07-29 21:33:19,437 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-29 21:33:19,469 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:33:19,513 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button contains Run Test text on the button
+[INFO ] 2020-07-29 21:33:19,513 pom005_VW_Tests_Tab.CreateTest_using_button() - =========================Test Creation=======================
+[INFO ] 2020-07-29 21:33:19,602 pom005_VW_Tests_Tab.CreateTest_using_button() - Navigate to Test Tab
+[INFO ] 2020-07-29 21:33:21,844 pom005_VW_Tests_Tab.CreateTest_using_button() - IVR Test Selected from Test Selection dropdown
+[INFO ] 2020-07-29 21:33:21,924 pom005_VW_Tests_Tab.CreateTest_using_button() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:33:21,924 pom005_VW_Tests_Tab.CreateTest_using_button() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:33:25,410 pom005_VW_Tests_Tab.CreateTest_using_button() - Test Name Passing to test name field
+[INFO ] 2020-07-29 21:33:25,521 pom005_VW_Tests_Tab.CreateTest_using_button() - Select script from dropdown under test tab
+[INFO ] 2020-07-29 21:33:27,427 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-29 21:33:27,527 pom005_VW_Tests_Tab.CreateTest_using_button() - clicked Save Test button
+[INFO ] 2020-07-29 21:33:29,849 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-29 21:33:29,945 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:33:30,020 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-29 21:33:30,070 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:33:30,070 pom005_VW_Tests_Tab.CreateTest_using_button() - =========================Celaning Test Data======================
+[INFO ] 2020-07-29 21:33:30,145 pom005_VW_Tests_Tab.CreateTest_using_button() - Navigate back to script tab
+[INFO ] 2020-07-29 21:33:37,875 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-29 21:33:38,265 pom005_VW_Tests_Tab.CreateTest_using_button() - Search above created Script using filter: IVR_Script_G8KN7
+[INFO ] 2020-07-29 21:33:38,506 pom005_VW_Tests_Tab.CreateTest_using_button() - Just retrived the deatils of above created script IVR_Script_G8KN7
+[INFO ] 2020-07-29 21:33:38,550 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:33:38,582 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:33:38,650 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that select dropdown
+[INFO ] 2020-07-29 21:33:38,666 pom005_VW_Tests_Tab.CreateTest_using_button() - delete button not found, so delete functinality not avaiable
+[INFO ] 2020-07-29 21:33:38,770 pom005_VW_Tests_Tab.DeleteTest() - Navigate to Script Tab
+[INFO ] 2020-07-29 21:33:38,770 pom005_VW_Tests_Tab.DeleteTest() - =================New Script Creation=====================
+[INFO ] 2020-07-29 21:33:43,277 pom005_VW_Tests_Tab.DeleteTest() - found progress bar loading
+[INFO ] 2020-07-29 21:33:43,373 pom005_VW_Tests_Tab.DeleteTest() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:33:44,058 pom005_VW_Tests_Tab.DeleteTest() - New script creation popup appered
+[INFO ] 2020-07-29 21:33:44,058 pom005_VW_Tests_Tab.DeleteTest() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:33:44,058 pom005_VW_Tests_Tab.DeleteTest() - Clicked Yes
+[DEBUG] 2020-07-29 21:33:44,058 pom005_VW_Tests_Tab.DeleteTest() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:33:44,178 pom005_VW_Tests_Tab.DeleteTest() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-29 21:33:44,892 pom005_VW_Tests_Tab.DeleteTest() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-29 21:33:45,008 pom005_VW_Tests_Tab.DeleteTest() - Verified that e164disabled
+[INFO ] 2020-07-29 21:33:45,008 pom005_VW_Tests_Tab.DeleteTest() - Generate Radom Scriptname _IVR_Script_UIPV6
+[INFO ] 2020-07-29 21:33:45,205 pom005_VW_Tests_Tab.DeleteTest() - Script Name Passing to script name field is: _IVR_Script_UIPV6
+[INFO ] 2020-07-29 21:33:45,325 pom005_VW_Tests_Tab.DeleteTest() - Generate Radom script description
+[INFO ] 2020-07-29 21:33:45,438 pom005_VW_Tests_Tab.DeleteTest() - Passing Number to Call is 18002051994
+[INFO ] 2020-07-29 21:33:45,516 pom005_VW_Tests_Tab.DeleteTest() - Deleteing First PhraseHear
+[INFO ] 2020-07-29 21:33:45,593 pom005_VW_Tests_Tab.DeleteTest() - Deleteing first Press Section
+[INFO ] 2020-07-29 21:33:45,660 pom005_VW_Tests_Tab.DeleteTest() - Deleteing second PhraseHear
+[INFO ] 2020-07-29 21:33:46,882 pom005_VW_Tests_Tab.DeleteTest() - Double Click on pause button Using Action class
+[INFO ] 2020-07-29 21:33:46,978 pom005_VW_Tests_Tab.DeleteTest() - Clicked script Save button
+[INFO ] 2020-07-29 21:33:51,039 pom005_VW_Tests_Tab.DeleteTest() - found progress bar loading
+[INFO ] 2020-07-29 21:33:51,107 pom005_VW_Tests_Tab.DeleteTest() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:33:51,192 pom005_VW_Tests_Tab.DeleteTest() - Verified that Run button contains Run Test text on the button
+[INFO ] 2020-07-29 21:33:51,192 pom005_VW_Tests_Tab.DeleteTest() - =========================Test Creation=======================
+[INFO ] 2020-07-29 21:33:51,392 pom005_VW_Tests_Tab.DeleteTest() - Navigate to Test Tab
+[INFO ] 2020-07-29 21:33:53,915 pom005_VW_Tests_Tab.DeleteTest() - IVR Test Selected from Test Selection dropdown
+[INFO ] 2020-07-29 21:33:53,989 pom005_VW_Tests_Tab.DeleteTest() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:33:53,989 pom005_VW_Tests_Tab.DeleteTest() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:33:57,299 pom005_VW_Tests_Tab.DeleteTest() - Test Name Passing to test name field
+[INFO ] 2020-07-29 21:33:57,407 pom005_VW_Tests_Tab.DeleteTest() - Select script from dropdown under test tab
+[INFO ] 2020-07-29 21:33:59,856 pom005_VW_Tests_Tab.DeleteTest() - found progress bar loading
+[INFO ] 2020-07-29 21:33:59,955 pom005_VW_Tests_Tab.DeleteTest() - clicked Save Test button
+[INFO ] 2020-07-29 21:34:01,701 pom005_VW_Tests_Tab.DeleteTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:01,785 pom005_VW_Tests_Tab.DeleteTest() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:34:01,814 pom005_VW_Tests_Tab.DeleteTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:01,814 pom005_VW_Tests_Tab.DeleteTest() - =======================Test Deletion====================
+[INFO ] 2020-07-29 21:34:06,647 pom005_VW_Tests_Tab.DeleteTest() - Delete button clicked under Test Tab
+[INFO ] 2020-07-29 21:34:06,783 pom005_VW_Tests_Tab.DeleteTest() - Delete Test Successfully
+[INFO ] 2020-07-29 21:34:09,134 pom005_VW_Tests_Tab.DeleteTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:09,134 pom005_VW_Tests_Tab.DeleteTest() - =========================Celaning Test Data===============
+[INFO ] 2020-07-29 21:34:09,213 pom005_VW_Tests_Tab.DeleteTest() - Navigate back to script tab
+[INFO ] 2020-07-29 21:34:16,118 pom005_VW_Tests_Tab.DeleteTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:16,292 pom005_VW_Tests_Tab.DeleteTest() - Search above created Script using filter _IVR_Script_UIPV6
+[INFO ] 2020-07-29 21:34:16,511 pom005_VW_Tests_Tab.DeleteTest() - Just retrived the deatils of above created script _IVR_Script_UIPV6
+[INFO ] 2020-07-29 21:34:16,551 pom005_VW_Tests_Tab.DeleteTest() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:34:16,579 pom005_VW_Tests_Tab.DeleteTest() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:34:16,653 pom005_VW_Tests_Tab.DeleteTest() - Verified that select dropdown
+[INFO ] 2020-07-29 21:34:16,727 pom005_VW_Tests_Tab.DeleteTest() - Verified that Clicked delete button
+[INFO ] 2020-07-29 21:34:16,767 pom005_VW_Tests_Tab.DeleteTest() - Verified that select delete all data
+[INFO ] 2020-07-29 21:34:18,802 pom005_VW_Tests_Tab.DeleteTest() -  Above all date clened/deleted successfully
+[INFO ] 2020-07-29 21:34:18,802 pom005_VW_Tests_Tab.DeleteTest() - =========================Test Completed====================
+[INFO ] 2020-07-29 21:34:19,223 pom005_VW_Tests_Tab.UpdateTest() - Navigate to Script Tab
+[INFO ] 2020-07-29 21:34:19,223 pom005_VW_Tests_Tab.UpdateTest() - =================New Script Creation===========================
+[INFO ] 2020-07-29 21:34:23,926 pom005_VW_Tests_Tab.UpdateTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:24,064 pom005_VW_Tests_Tab.UpdateTest() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:34:24,140 pom005_VW_Tests_Tab.UpdateTest() - New script creation popup appered
+[INFO ] 2020-07-29 21:34:24,140 pom005_VW_Tests_Tab.UpdateTest() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:34:24,140 pom005_VW_Tests_Tab.UpdateTest() - Clicked Yes
+[DEBUG] 2020-07-29 21:34:24,140 pom005_VW_Tests_Tab.UpdateTest() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:34:24,215 pom005_VW_Tests_Tab.UpdateTest() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-29 21:34:24,978 pom005_VW_Tests_Tab.UpdateTest() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-29 21:34:25,094 pom005_VW_Tests_Tab.UpdateTest() - Verified that e164disabled
+[INFO ] 2020-07-29 21:34:25,094 pom005_VW_Tests_Tab.UpdateTest() - Generate Radom Scriptname IVR_Script_V9F4S
+[INFO ] 2020-07-29 21:34:25,295 pom005_VW_Tests_Tab.UpdateTest() - Script Name Passing to script name field is: IVR_Script_V9F4S
+[INFO ] 2020-07-29 21:34:25,410 pom005_VW_Tests_Tab.UpdateTest() - Generate Radom script description
+[INFO ] 2020-07-29 21:34:25,518 pom005_VW_Tests_Tab.UpdateTest() - Passing Number to Call is 18002051994
+[INFO ] 2020-07-29 21:34:25,600 pom005_VW_Tests_Tab.UpdateTest() - Deleteing First PhraseHear
+[INFO ] 2020-07-29 21:34:25,679 pom005_VW_Tests_Tab.UpdateTest() - Deleteing first Press Section
+[INFO ] 2020-07-29 21:34:25,750 pom005_VW_Tests_Tab.UpdateTest() - Deleteing second PhraseHear
+[INFO ] 2020-07-29 21:34:27,080 pom005_VW_Tests_Tab.UpdateTest() - Double Click on pause button Using Action class
+[INFO ] 2020-07-29 21:34:27,267 pom005_VW_Tests_Tab.UpdateTest() - Clicked script Save button
+[INFO ] 2020-07-29 21:34:35,921 pom005_VW_Tests_Tab.UpdateTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:35,949 pom005_VW_Tests_Tab.UpdateTest() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:34:35,980 pom005_VW_Tests_Tab.UpdateTest() - Verified that Run button contains Run Test text on the button
+[INFO ] 2020-07-29 21:34:35,980 pom005_VW_Tests_Tab.UpdateTest() - =========================Test Creation=======================
+[INFO ] 2020-07-29 21:34:36,073 pom005_VW_Tests_Tab.UpdateTest() - Navigate to Test Tab
+[INFO ] 2020-07-29 21:34:38,520 pom005_VW_Tests_Tab.UpdateTest() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:34:38,580 pom005_VW_Tests_Tab.UpdateTest() - IVR Test Selected from Test Selection dropdown
+[INFO ] 2020-07-29 21:34:38,658 pom005_VW_Tests_Tab.UpdateTest() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:34:38,658 pom005_VW_Tests_Tab.UpdateTest() - Generated random Test Name: Test_IVR_Script_V9F4S
+[INFO ] 2020-07-29 21:34:41,947 pom005_VW_Tests_Tab.UpdateTest() - Test Name Passing to test name field
+[INFO ] 2020-07-29 21:34:42,059 pom005_VW_Tests_Tab.UpdateTest() - Select script from dropdown under test tab
+[INFO ] 2020-07-29 21:34:44,363 pom005_VW_Tests_Tab.UpdateTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:44,476 pom005_VW_Tests_Tab.UpdateTest() - clicked Save Test button
+[INFO ] 2020-07-29 21:34:46,273 pom005_VW_Tests_Tab.UpdateTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:46,306 pom005_VW_Tests_Tab.UpdateTest() - Verified that View button button enabled
+[INFO ] 2020-07-29 21:34:46,306 pom005_VW_Tests_Tab.UpdateTest() - =========================Test Update=======================
+[INFO ] 2020-07-29 21:34:46,450 pom005_VW_Tests_Tab.UpdateTest() - Search above created Test
+[INFO ] 2020-07-29 21:34:46,550 pom005_VW_Tests_Tab.UpdateTest() - Reterived above created Test
+[INFO ] 2020-07-29 21:34:46,578 pom005_VW_Tests_Tab.UpdateTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:46,637 pom005_VW_Tests_Tab.UpdateTest() - Cleaned Name of above test
+[INFO ] 2020-07-29 21:34:46,819 pom005_VW_Tests_Tab.UpdateTest() - Update Test Name as:Update_Test_IVR_Script_V9F4S
+[INFO ] 2020-07-29 21:34:46,865 pom005_VW_Tests_Tab.UpdateTest() - Save above Updated Test name
+[INFO ] 2020-07-29 21:34:48,799 pom005_VW_Tests_Tab.UpdateTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:51,420 pom005_VW_Tests_Tab.UpdateTest() - Verified that View button button enabled
+[INFO ] 2020-07-29 21:34:51,420 pom005_VW_Tests_Tab.UpdateTest() - =========================Celaning Test Data===============
+[INFO ] 2020-07-29 21:34:51,554 pom005_VW_Tests_Tab.UpdateTest() - Delete button clicked under Test Tab
+[INFO ] 2020-07-29 21:34:51,663 pom005_VW_Tests_Tab.UpdateTest() - Test Delete Successfully
+[INFO ] 2020-07-29 21:34:53,373 pom005_VW_Tests_Tab.UpdateTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:53,429 pom005_VW_Tests_Tab.UpdateTest() - Navigate back to script tab
+[INFO ] 2020-07-29 21:34:59,537 pom005_VW_Tests_Tab.UpdateTest() - found progress bar loading
+[INFO ] 2020-07-29 21:34:59,683 pom005_VW_Tests_Tab.UpdateTest() - Search above created Script using filter IVR_Script_V9F4S
+[INFO ] 2020-07-29 21:34:59,946 pom005_VW_Tests_Tab.UpdateTest() - Just retrived the deatils of above created script IVR_Script_V9F4S
+[INFO ] 2020-07-29 21:35:00,204 pom005_VW_Tests_Tab.UpdateTest() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:35:00,241 pom005_VW_Tests_Tab.UpdateTest() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:35:00,309 pom005_VW_Tests_Tab.UpdateTest() - Verified that select dropdown
+[INFO ] 2020-07-29 21:35:00,383 pom005_VW_Tests_Tab.UpdateTest() - Verified that Clicked delete button
+[INFO ] 2020-07-29 21:35:00,419 pom005_VW_Tests_Tab.UpdateTest() - Verified that select delete all data
+[INFO ] 2020-07-29 21:35:02,660 pom005_VW_Tests_Tab.UpdateTest() -  Above all date clened/deleted successfully
+[INFO ] 2020-07-29 21:35:02,660 pom005_VW_Tests_Tab.UpdateTest() - =========================Test Completed====================
+[INFO ] 2020-07-29 21:35:03,177 pom005_VW_Tests_Tab.Test_Now_Test() - Navigate to Script Tab
+[INFO ] 2020-07-29 21:35:03,177 pom005_VW_Tests_Tab.Test_Now_Test() - =================New Script Creation===========================
+[INFO ] 2020-07-29 21:35:07,126 pom005_VW_Tests_Tab.Test_Now_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:35:07,328 pom005_VW_Tests_Tab.Test_Now_Test() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:35:07,400 pom005_VW_Tests_Tab.Test_Now_Test() - New script creation popup appered
+[INFO ] 2020-07-29 21:35:07,400 pom005_VW_Tests_Tab.Test_Now_Test() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:35:07,400 pom005_VW_Tests_Tab.Test_Now_Test() - Clicked Yes
+[DEBUG] 2020-07-29 21:35:07,400 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:35:07,480 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-29 21:35:08,352 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-29 21:35:08,494 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that e164disabled
+[INFO ] 2020-07-29 21:35:08,494 pom005_VW_Tests_Tab.Test_Now_Test() - Generate Radom Scriptname IVR_Script_SBJA2
+[INFO ] 2020-07-29 21:35:08,755 pom005_VW_Tests_Tab.Test_Now_Test() - Script Name Passing to script name field is: IVR_Script_SBJA2
+[INFO ] 2020-07-29 21:35:08,874 pom005_VW_Tests_Tab.Test_Now_Test() - Generate Radom script description
+[INFO ] 2020-07-29 21:35:08,981 pom005_VW_Tests_Tab.Test_Now_Test() - Passing Number to Call is 18002051995
+[INFO ] 2020-07-29 21:35:09,064 pom005_VW_Tests_Tab.Test_Now_Test() - Deleteing First PhraseHear
+[INFO ] 2020-07-29 21:35:09,138 pom005_VW_Tests_Tab.Test_Now_Test() - Deleteing first Press Section
+[INFO ] 2020-07-29 21:35:09,210 pom005_VW_Tests_Tab.Test_Now_Test() - Deleteing second PhraseHear
+[INFO ] 2020-07-29 21:35:10,403 pom005_VW_Tests_Tab.Test_Now_Test() - Double Click on pause button Using Action class
+[INFO ] 2020-07-29 21:35:10,518 pom005_VW_Tests_Tab.Test_Now_Test() - Clicked script Save button
+[INFO ] 2020-07-29 21:35:15,014 pom005_VW_Tests_Tab.Test_Now_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:35:15,043 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:35:15,076 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that Run button contains Run Test text on the button
+[INFO ] 2020-07-29 21:35:15,076 pom005_VW_Tests_Tab.Test_Now_Test() - =========================Test Creation=======================
+[INFO ] 2020-07-29 21:35:15,164 pom005_VW_Tests_Tab.Test_Now_Test() - Navigate to Test Tab
+[INFO ] 2020-07-29 21:35:17,580 pom005_VW_Tests_Tab.Test_Now_Test() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:35:17,649 pom005_VW_Tests_Tab.Test_Now_Test() - IVR Test Selected from Test Selection dropdown
+[INFO ] 2020-07-29 21:35:17,743 pom005_VW_Tests_Tab.Test_Now_Test() - Start Creating Test using + button
+[INFO ] 2020-07-29 21:35:20,960 pom005_VW_Tests_Tab.Test_Now_Test() - Test Name Passing to test name field
+[INFO ] 2020-07-29 21:35:21,078 pom005_VW_Tests_Tab.Test_Now_Test() - Select script from dropdown under test tab
+[INFO ] 2020-07-29 21:35:22,813 pom005_VW_Tests_Tab.Test_Now_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:35:22,979 pom005_VW_Tests_Tab.Test_Now_Test() - clicked Save Test button
+[INFO ] 2020-07-29 21:35:25,294 pom005_VW_Tests_Tab.Test_Now_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:35:25,326 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that Run button enabled
+[INFO ] 2020-07-29 21:35:25,326 pom005_VW_Tests_Tab.Test_Now_Test() - =========================Test Now=======================
+[DEBUG] 2020-07-29 21:35:25,390 pom005_VW_Tests_Tab.Test_Now_Test() - ViewResult button clicked
+[DEBUG] 2020-07-29 21:35:25,418 pom005_VW_Tests_Tab.Test_Now_Test() - progress
+[DEBUG] 2020-07-29 21:35:29,299 pom005_VW_Tests_Tab.Test_Now_Test() - TestNow located
+[DEBUG] 2020-07-29 21:35:29,323 pom005_VW_Tests_Tab.Test_Now_Test() - TestNow button clicked
+[INFO ] 2020-07-29 21:36:25,808 pom005_VW_Tests_Tab.Test_Now_Test() - Test Result Not found 'Let try one more time'
+[INFO ] 2020-07-29 21:36:49,879 pom005_VW_Tests_Tab.Test_Now_Test() - Refersh Web Page
+[INFO ] 2020-07-29 21:36:52,732 pom005_VW_Tests_Tab.Test_Now_Test() - Test Result is displying on dashboard_2
+[INFO ] 2020-07-29 21:36:52,752 pom005_VW_Tests_Tab.Test_Now_Test() - Test Result is enabled on dashboard_2
+[INFO ] 2020-07-29 21:36:52,802 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that Download CSV button is displayed on dashboard_2
+[INFO ] 2020-07-29 21:36:52,827 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that Download CSV button is enabled on dashboard_2
+[INFO ] 2020-07-29 21:36:52,827 pom005_VW_Tests_Tab.Test_Now_Test() - =========================Celaning Test Data======================
+[INFO ] 2020-07-29 21:36:58,207 pom005_VW_Tests_Tab.Test_Now_Test() - Navigate to test tab using View Configuration button
+[INFO ] 2020-07-29 21:37:06,055 pom005_VW_Tests_Tab.Test_Now_Test() - Delete button clicked under Test Tab
+[INFO ] 2020-07-29 21:37:06,179 pom005_VW_Tests_Tab.Test_Now_Test() - Test Delete Successfully
+[INFO ] 2020-07-29 21:37:09,014 pom005_VW_Tests_Tab.Test_Now_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:37:09,264 pom005_VW_Tests_Tab.Test_Now_Test() - Navigate back to script tab
+[INFO ] 2020-07-29 21:37:16,711 pom005_VW_Tests_Tab.Test_Now_Test() - found progress bar loading
+[INFO ] 2020-07-29 21:37:16,876 pom005_VW_Tests_Tab.Test_Now_Test() - Search above created Script using filter IVR_Script_SBJA2
+[INFO ] 2020-07-29 21:37:17,139 pom005_VW_Tests_Tab.Test_Now_Test() - Just retrived the deatils of above created script IVR_Script_SBJA2
+[INFO ] 2020-07-29 21:37:17,203 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:37:17,235 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:37:17,303 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that select dropdown
+[INFO ] 2020-07-29 21:37:17,379 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that Clicked delete button
+[INFO ] 2020-07-29 21:37:17,419 pom005_VW_Tests_Tab.Test_Now_Test() - Verified that select delete all data
+[INFO ] 2020-07-29 21:37:19,702 pom005_VW_Tests_Tab.Test_Now_Test() -  Above all date clened/deleted successfully
+[INFO ] 2020-07-29 21:37:19,702 pom005_VW_Tests_Tab.Test_Now_Test() - =========================Test Completed===============================
+[DEBUG] 2020-07-29 21:37:20,167 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Notification Tab clicked
+[DEBUG] 2020-07-29 21:37:24,661 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Notification icon clicked
+[DEBUG] 2020-07-29 21:37:26,901 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Verified that 'Save' button disabled under Notification tab
+[DEBUG] 2020-07-29 21:37:26,924 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-29 21:37:26,924 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-29 21:37:28,222 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Passing Random notification name under Notification tabNotify_SI3UJ
+[DEBUG] 2020-07-29 21:37:28,406 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Passing Email Addresses: hari@preempt.comunder Notification tab
+[INFO ] 2020-07-29 21:37:28,530 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Save button clicked
+[INFO ] 2020-07-29 21:37:30,868 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Found load progress bar
+[DEBUG] 2020-07-29 21:37:30,917 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Verified that 'Save' button disabled after creating notification
+[DEBUG] 2020-07-29 21:37:31,021 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Verified that 'Choose either user or enter email addresses' icon is not displaying
+[DEBUG] 2020-07-29 21:37:31,076 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Verified that 'Delete' button enabled after creating notification
+[DEBUG] 2020-07-29 21:37:31,149 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Verified that 'Mail' button enabled after creating notification
+[DEBUG] 2020-07-29 21:37:31,149 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Verified that Notification:Notify_SI3UJCreated Successfully
+[DEBUG] 2020-07-29 21:37:31,502 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Retriving Notification
+[DEBUG] 2020-07-29 21:37:31,690 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Click first search notify
+[DEBUG] 2020-07-29 21:37:31,860 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Clicked selected notify as delete
+[INFO ] 2020-07-29 21:37:31,891 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Alert is coming
+[INFO ] 2020-07-29 21:37:31,910 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Alert accepted
+[DEBUG] 2020-07-29 21:37:37,233 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_Def_Template() - Notfication: Notify_SI3UJ Delete Successfully
+[DEBUG] 2020-07-29 21:37:37,353 pom010_VW_Notification_Tab.Create_Notifi_using_User_with_Def_Template() - Notification Tab clicked
+[DEBUG] 2020-07-29 21:37:42,275 pom010_VW_Notification_Tab.Create_Notifi_using_User_with_Def_Template() - Notification icon clicked
+[INFO ] 2020-07-29 21:37:44,970 pom007_VW_Script_Tabs.CopyToAnotherApp() - Navigate to script Tab
+[INFO ] 2020-07-29 21:37:51,629 pom007_VW_Script_Tabs.CopyToAnotherApp() - Found load progress bar
+[INFO ] 2020-07-29 21:37:51,749 pom007_VW_Script_Tabs.CopyToAnotherApp() - Start Creating Script using + button
+[INFO ] 2020-07-29 21:37:51,825 pom007_VW_Script_Tabs.CopyToAnotherApp() - New script creation popup appered
+[INFO ] 2020-07-29 21:37:51,825 pom007_VW_Script_Tabs.CopyToAnotherApp() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-29 21:37:51,825 pom007_VW_Script_Tabs.CopyToAnotherApp() - Clicked Yes
+[DEBUG] 2020-07-29 21:37:51,825 pom007_VW_Script_Tabs.CopyToAnotherApp() - Verified that Script dropdown
+[DEBUG] 2020-07-29 21:37:51,984 pom007_VW_Script_Tabs.CopyToAnotherApp() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-29 21:37:52,694 pom007_VW_Script_Tabs.CopyToAnotherApp() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-29 21:37:52,824 pom007_VW_Script_Tabs.CopyToAnotherApp() - Verified that e164disabled
+[INFO ] 2020-07-29 21:37:52,825 pom007_VW_Script_Tabs.CopyToAnotherApp() - Generate Radom Scriptname IVR_Script_HZQV7
+[INFO ] 2020-07-29 21:37:53,019 pom007_VW_Script_Tabs.CopyToAnotherApp() - Passing script name IVR_Script_HZQV7
+[INFO ] 2020-07-29 21:37:53,151 pom007_VW_Script_Tabs.CopyToAnotherApp() - Generate Radom script description
+[INFO ] 2020-07-29 21:37:53,271 pom007_VW_Script_Tabs.CopyToAnotherApp() - Passing Number to Call is 18002041994
+[INFO ] 2020-07-29 21:37:53,271 pom007_VW_Script_Tabs.CopyToAnotherApp() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:37:53,349 pom007_VW_Script_Tabs.CopyToAnotherApp() - Deleteing First PhraseHear
+[INFO ] 2020-07-29 21:37:53,349 pom007_VW_Script_Tabs.CopyToAnotherApp() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:37:53,418 pom007_VW_Script_Tabs.CopyToAnotherApp() - Deleteing first Press Section
+[INFO ] 2020-07-29 21:37:53,418 pom007_VW_Script_Tabs.CopyToAnotherApp() - Sync issue so waiting just one second
+[INFO ] 2020-07-29 21:37:53,483 pom007_VW_Script_Tabs.CopyToAnotherApp() - Deleteing second PhraseHear
+[INFO ] 2020-07-29 21:37:54,873 pom007_VW_Script_Tabs.CopyToAnotherApp() - Using Action class double clicked pause button
+[INFO ] 2020-07-29 21:37:54,941 pom007_VW_Script_Tabs.CopyToAnotherApp() - Clicked Save button
+[INFO ] 2020-07-29 21:37:59,493 pom007_VW_Script_Tabs.CopyToAnotherApp() - Sync issue so waiting just ten Second
+[INFO ] 2020-07-29 21:37:59,878 pom007_VW_Script_Tabs.CopyToAnotherApp() - Search above created Script using filter IVR_Script_HZQV7
+[INFO ] 2020-07-29 21:37:59,975 pom007_VW_Script_Tabs.CopyToAnotherApp() - Just retrived the deatils of above created script IVR_Script_HZQV7
+[INFO ] 2020-07-29 21:38:00,003 pom007_VW_Script_Tabs.CopyToAnotherApp() - Verified that Run button is enabled
+[INFO ] 2020-07-29 21:38:00,037 pom007_VW_Script_Tabs.CopyToAnotherApp() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-29 21:38:00,107 pom007_VW_Script_Tabs.CopyToAnotherApp() - Verified that select dropdown
+[INFO ] 2020-07-29 21:38:00,195 pom007_VW_Script_Tabs.CopyToAnotherApp() - Verified copyScript clicked from dropdown
+[INFO ] 2020-07-29 21:38:00,227 pom007_VW_Script_Tabs.CopyToAnotherApp() - Found load progress bar
+[INFO ] 2020-07-29 21:38:00,374 pom007_VW_Script_Tabs.CopyToAnotherApp() - Select HODQA
+[INFO ] 2020-07-29 21:38:02,150 pom007_VW_Script_Tabs.CopyToAnotherApp() - Found load progress bar
+[INFO ] 2020-07-29 21:38:02,245 pom007_VW_Script_Tabs.CopyToAnotherApp() - Create Application Button clicked
+[INFO ] 2020-07-29 21:38:02,409 pom007_VW_Script_Tabs.CopyToAnotherApp() - Provided input as Application
+[INFO ] 2020-07-29 21:38:02,489 pom007_VW_Script_Tabs.CopyToAnotherApp() - Click Save Application button
+[INFO ] 2020-07-29 21:38:04,847 pom007_VW_Script_Tabs.CopyToAnotherApp() - Found load progress bar
+[INFO ] 2020-07-29 21:38:04,940 pom007_VW_Script_Tabs.CopyToAnotherApp() - Create release Button clicked
+[INFO ] 2020-07-29 21:38:05,100 pom007_VW_Script_Tabs.CopyToAnotherApp() - Create release field added
+[INFO ] 2020-07-29 21:38:05,199 pom007_VW_Script_Tabs.CopyToAnotherApp() - Relase save button clicked
+[INFO ] 2020-07-29 21:38:07,509 pom007_VW_Script_Tabs.CopyToAnotherApp() - Found load progress bar
+[INFO ] 2020-07-29 21:38:07,681 pom007_VW_Script_Tabs.CopyToAnotherApp() - Click Close button
+[INFO ] 2020-07-29 21:38:12,345 pom007_VW_Script_Tabs.CopyToAnotherApp() - Found load progress bar
+[INFO ] 2020-07-29 21:38:12,467 pom007_VW_Script_Tabs.CopyToAnotherApp() - close poup dilog box
+[DEBUG] 2020-07-29 21:38:12,918 pom007_VW_Script_Tabs.CopyToAnotherApp() - Profile dropdown clicked
+[DEBUG] 2020-07-29 21:38:13,079 pom007_VW_Script_Tabs.CopyToAnotherApp() - Switch to HODQA
+[DEBUG] 2020-07-29 21:38:18,147 pom007_VW_Script_Tabs.CopyToAnotherApp() - Refersing appication
+[INFO ] 2020-07-29 21:38:29,731 pom007_VW_Script_Tabs.CopyToAnotherApp() - Found load progress bar

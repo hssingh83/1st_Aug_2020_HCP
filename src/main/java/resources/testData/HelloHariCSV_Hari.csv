@@ -1,0 +1,74 @@
+Script Name,Description,Action,Inputs
+Empirix_test_call_210,,Place Call to Empirixx,999999996038
+,,Hear greeting,Thank &&DM_1000&& you for calling Empirix.  For sales press 1. Technical Support press 2.  Finance and Human Resources press 3.  To use our dial by name directory press 9.  To speak with an operator press 0.
+,,Release call,
+,,,
+Empirix_test_call_220,,Place Call to Empirixx,999999996038
+,,Hear greeting,Thank you for calling Empirix.  For sales press 1. Technical Support press 2.  Finance and Human Resources press 3.  To use our dial by name directory press 9.  To speak with an operator press 0.
+,,Pause for reprompt,3000
+,,Hear reprompt,Thank you for calling Empirix *
+,,Release call,
+,,,
+Empirix_test_call_230,,Place Call to Empirixx,999999996038
+,,Hear greeting,Thank you for calling Empirix *
+,,Press 1 for Sales,
+,,Time,1
+,,Release call,
+,,,
+Empirix_test_call_240,,Place Call to Empirixx,999999996038
+,,Hear greeting,Thank you for calling Empirix *
+,,Press 2 for Tech Support,
+,,Time,1000
+,,Release call,
+,,,
+Empirix_test_call_250,,Place Call to Empirixx,999999996038
+,,Hear greeting,Thank you for calling Empirix *
+,,Press 3 for Finance and HR,
+,,Hear Finance and HR menu,Finance and Human Resources.  For Accounts Payable press 1.  Accounts Receivable 2.  Human Resources 3.
+,,Press 1 for Accts Payable,
+,,Time,1000
+,,Release call,
+,,,
+Empirix_test_call_260,,Place Call to Empirixx,999999996038
+,,Hear greeting,Thank you for calling Empirix *
+,,Press 3 for Finance and HR,
+,,Hear Finance and HR menu,Finance and Human Resources.  For Accounts Payable press 1.  Accounts Receivable 2.  Human Resources 3.
+,,Press 2 for Accts Receivable,
+,,Time,1000
+,,Release call,
+,,,
+Empirix_test_call_270,,Place Call to Empirixxx999999996038
+,,Hear greeting,Thank you for calling Empirix *
+,,Press 3 for Finance and HR,3
+,,Hear Finance and HR menu,Finance and Human Resources.  For Accounts Payable press 1.  Accounts Receivable 2.  Human Resources 3.
+,,Press 1 for Accts Payable,3
+,,Time,1000
+,,Release call,
+,,,
+Empirix_test_call_280,,Place Call to Empirixx,999999996038
+,,Hear greeting,Thank you for calling Empirix *
+,,Press 9 for dial by name,9
+,,Hear dial by name prompt,* Thank you for calling Empirix.  To reach a specific person just tell me their name.
+,,Say John Noonan,John Noonan
+,,Hear OK,O K.  Dialing
+,,Release call,
+,,,
+Empirix_test_call_290,,Place Call to Empirixx,999999996038
+,,Hear greeting,Thank you for calling Empirix *
+,,Press 9 for dial by name,9
+,,Hear dial by name prompt,* Thank you for calling Empirix.  To reach a specific person just tell me their name.
+,,Say Donald Trump_1,Donald Trump
+,,Hear dial by name reprompt,* Sorry *
+,,Say Donald Trump_2,Donald Trump
+,,Hear OK,* Sorry *
+,,Release call,
+,,,
+Empirix_test_call_200,,Place Call to Empirixx,999999996038
+,,Hear greeting,Thank you for calling Empirix *
+,,Press 9 for dial by name,9
+,,Hear dial by name prompt,* Thank you for calling Empirix.  To reach a specific person just tell me their name.
+,,Pause for reprompt_1,6000
+,,Hear reprompt_1,I didn't hear you.  Please say the name of the person you'd like to contact.
+,,Pause for reprompt_2,6000
+,,Hear reprompt_2,"Sorry, I still didn't hear you *"
+,,Release call,

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <listeners>
+<listener class-name="resources.listeners"></listener>
+<listener class-name="Analyzer.MyTransformer"/>
+<listener class-name="resources.ExtentReporterNG"/>
+</listeners>
+
+     
+   
+ <!--            <test  name="Test Case: 001- Login Page Verification ">
+    <classes>
+     
+      <class name="VW_TC.TC0001_login_Page_Verification"/>
+         
+     </classes> 
+     </test>
+     
+     <test  name="Test Case: 002 - Login with 'Empirix Admin' Credetials'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0002_login_With_Exmpirix_Admin"/>
+      
+     </classes> 
+     </test>
+     
+    <test  name="Test Case: 003 - Login with 'Empirix Business Analyst' Credetials'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0003_login_With_Empirix_Business_Analyst"/>
+      
+     </classes> 
+     </test>
+     
+     
+        <test name="Test Case: 004 - Test Case Login with 'Partner Customer Admin' Credetials and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0004_login_With_Partner_Customer_Admin"/>
+      
+     </classes> 
+     </test>
+     
+     
+          
+        <test  name="Test Case: 005 - Login with 'Partner Developer' Credetials and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0005_login_With_Partner_Developer"/>
+      
+     </classes> 
+     </test>
+     
+          <test name="Test Case:006 - Login with 'Partner Enhanced User Credetials'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0006_login_With_Partner_Enhanced_User"/>
+      
+     </classes> 
+     </test>
+     
+         
+      <test  name="Test Case: 007 - Login with 'Partner Use' Credetials and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0007_login_With_Partner_User"/>
+      
+     </classes> 
+     </test>
+       
+   
+     
+      <test  name="Test Case: 008 - 'Login with 'Client or Partner Client Customer Admin'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0008_login_With_Client_OR_Partner_Client_Custmer_Admin"/>
+      
+     </classes> 
+     </test>
+     
+           <test  name="Test Case: 009 'Login with 'Client or Partner Client Developer'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0009_login_With_Client_OR_Partner_Client_Developer"/>
+      
+     </classes> 
+     </test>
+     
+               <test  name="Test Case: 010 'Login with 'Client or Partner Client Enhanced User'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0010_login_With_Client_OR_Partner_Client_Enhanced_User"/>
+      
+     </classes> 
+     </test>
+     
+               <test  name="Test Case: 011 'Login with 'Client or Partner Client User'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0011_login_With_Client_OR_Partner_Client_User_Test"/>
+      
+     </classes> 
+     </test> -->
+     
+     
+   
+   
+   
+  
+   
+    
+   
+    
+    
+    
+    
+      <!-- <test name="Test Case: 004 - Test Case Login with 'Partner Customer Admin' Credetials and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0004_login_With_Partner_Customer_Admin"/>
+      
+     </classes> 
+     </test>
+     
+           
+        <test  name="Test Case: 005 - Login with 'Partner Developer' Credetials and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0005_login_With_Partner_Developer"/>
+      
+     </classes> 
+     </test>
+     
+     
+       
+          <test name="Test Case:006 - Login with 'Partner Enhanced User Credetials'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0006_login_With_Partner_Enhanced_User"/>
+      
+     </classes> 
+     </test>
+     -->
+    
+    
+     <test  name="Test Case: 007 - Login with 'Partner User' Credetials and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0007_login_With_Partner_User"/>
+      
+     </classes> 
+     </test>
+     
+  <!--    <test  name="Test Case: 010 'Login with 'Partnered Client Enhanced User'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0010_login_With_Partnered_Client_Enhanced_User"/>
+      
+     </classes> 
+     </test>
+     
+       <test  name="Test Case: 011 'Login with 'Partnered Client User'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0011_login_With_Partnered_Client_User"/>
+      
+     </classes> 
+     </test>
+     
+     
+     
+     
+    
+           
+       <test  name="Test Case: 012 - 'Login with 'Client Customer Admin'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0012_login_With_Client_Custmer_Admin"/>
+         
+     </classes> 
+     </test>  
+      
+  
+       
+     
+     <test  name="Test Case: 013 'Login with 'Client Developer'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0013_login_With_Client_Developer"/>
+      
+     </classes> 
+     </test>
+     
+     
+       
+     
+      
+     <test  name="Test Case: 014 'Login with 'Client Enhanced User'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0014_login_With_Client_Enhanced_User"/>
+      
+     </classes> 
+     </test> 
+     
+     
+   
+     
+       
+       <test  name="Test Case: 015 'Login with 'Client User'and verify TabAvailablity">
+    <classes>
+     
+      <class name="VW_TC.TC0015_login_With_Client_User"/>
+      
+       </classes> 
+     </test>    
+      -->
+ 
+
+     
+  
+     
+    
+     
+     
+     
+     
+</suite> 

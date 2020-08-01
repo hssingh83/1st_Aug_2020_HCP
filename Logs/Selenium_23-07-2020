@@ -1,0 +1,37 @@
+[DEBUG] 2020-07-23 21:20:00,132 basePropertiesFile.intializeWebDriver() - Chrome Driver intilized successfully
+[INFO ] 2020-07-23 21:20:00,138 basePropertiesFile.intializeWebDriver() - Chrome Browser selected & Launching
+[INFO ] 2020-07-23 21:20:01,298 basePropertiesFile.VoiceWatch_login() - Screen maximized successfully
+[DEBUG] 2020-07-23 21:20:20,238 basePropertiesFile.VoiceWatch_login() - URL provided
+[INFO ] 2020-07-23 21:20:25,620 basePropertiesFile.VoiceWatch_login() - Refresing Page again
+[INFO ] 2020-07-23 21:20:25,853 basePropertiesFile.VoiceWatch_login() - Loding so refersing page again
+[DEBUG] 2020-07-23 21:20:26,270 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-23 21:20:35,551 basePropertiesFile.VoiceWatch_login() - Webpage loading
+[DEBUG] 2020-07-23 21:20:35,609 basePropertiesFile.VoiceWatch_login() - User Name Provided
+[DEBUG] 2020-07-23 21:20:35,680 basePropertiesFile.VoiceWatch_login() - Password Provided
+[DEBUG] 2020-07-23 21:20:35,753 basePropertiesFile.VoiceWatch_login() - Sign button clicked
+[DEBUG] 2020-07-23 21:20:35,753 basePropertiesFile.VoiceWatch_login() - User logged in:admin
+[DEBUG] 2020-07-23 21:21:05,568 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-23 21:21:11,257 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile dropdown clicked
+[DEBUG] 2020-07-23 21:21:11,351 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile Tab clicked
+[DEBUG] 2020-07-23 21:21:19,993 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserEmail is: ecp_admin@empirix.com
+[DEBUG] 2020-07-23 21:21:20,060 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserID is: admin
+[DEBUG] 2020-07-23 21:21:20,061 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Verified User name retrived as : admin
+[DEBUG] 2020-07-23 21:21:20,108 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User First Name is: admin
+[DEBUG] 2020-07-23 21:21:20,136 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Last Name is: admin
+[DEBUG] 2020-07-23 21:21:20,163 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Permission Level is: Empirix Admin
+[INFO ] 2020-07-23 21:21:20,402 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Navigate to script Tab
+[INFO ] 2020-07-23 21:21:23,758 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Found load progress bar
+[INFO ] 2020-07-23 21:21:23,927 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Start Creating Script using + button
+[INFO ] 2020-07-23 21:21:26,260 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - New script creation popup appered
+[INFO ] 2020-07-23 21:21:26,261 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-23 21:21:26,261 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Clicked Yes
+[DEBUG] 2020-07-23 21:21:26,261 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that Script dropdown
+[DEBUG] 2020-07-23 21:21:26,444 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that E2E Script selected from dropdown
+[DEBUG] 2020-07-23 21:21:26,730 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that Go button clicked while select E2E Scriptn
+[DEBUG] 2020-07-23 21:21:29,183 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that numberToCall button clicked while select creating Script
+[DEBUG] 2020-07-23 21:21:32,116 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Verified that e164disabled
+[INFO ] 2020-07-23 21:21:32,117 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Generate Radom Scriptname E2E_Script_LRD2L
+[INFO ] 2020-07-23 21:21:32,280 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Passing script name E2E_Script_LRD2L
+[INFO ] 2020-07-23 21:21:32,378 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Passing Number to Call is 18001111111
+[INFO ] 2020-07-23 21:21:33,047 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Clicked Save button
+[INFO ] 2020-07-23 21:21:38,007 pom007_VW_Script_Tabs.Create_run_E2E_Script_using_button() - Found load progress bar

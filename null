@@ -1,0 +1,17 @@
+1579800456754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "disable-infobars" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsingh\\AppData\\Local\\Temp\\rust_mozprofile54Be6x"
+1579800457327	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579800457449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579800457449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579800457450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579800457450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579800459450	Marionette	INFO	Listening on port 56446
+1579800459529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.empirix.com/openam/XUI/org/forgerock/commons/ui/common/components/Messages.js, line 60: TypeError: $.t is not a function
+JavaScript error: https://sso.empirix.com/openam/XUI/org/forgerock/commons/ui/common/components/Messages.js, line 60: TypeError: $.t is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579801038510	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579801041903	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64

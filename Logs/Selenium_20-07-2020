@@ -1,0 +1,64 @@
+[DEBUG] 2020-07-20 17:27:10,355 basePropertiesFile.intializeWebDriver() - Chrome Driver intilized successfully
+[INFO ] 2020-07-20 17:27:10,361 basePropertiesFile.intializeWebDriver() - Chrome Browser selected & Launching
+[INFO ] 2020-07-20 17:27:11,511 basePropertiesFile.VoiceWatch_login() - Screen maximized successfully
+[DEBUG] 2020-07-20 17:27:36,282 basePropertiesFile.VoiceWatch_login() - URL provided
+[INFO ] 2020-07-20 17:27:37,324 basePropertiesFile.VoiceWatch_login() - Refresing Page again
+[INFO ] 2020-07-20 17:27:37,572 basePropertiesFile.VoiceWatch_login() - Loding so refersing page again
+[DEBUG] 2020-07-20 17:27:38,688 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-20 17:27:50,958 basePropertiesFile.VoiceWatch_login() - Webpage loading
+[DEBUG] 2020-07-20 17:27:51,044 basePropertiesFile.VoiceWatch_login() - User Name Provided
+[DEBUG] 2020-07-20 17:27:51,135 basePropertiesFile.VoiceWatch_login() - Password Provided
+[DEBUG] 2020-07-20 17:27:51,228 basePropertiesFile.VoiceWatch_login() - Sign button clicked
+[DEBUG] 2020-07-20 17:27:51,228 basePropertiesFile.VoiceWatch_login() - User logged in:hari_admin2
+[DEBUG] 2020-07-20 17:28:23,359 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-20 17:28:28,404 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile dropdown clicked
+[DEBUG] 2020-07-20 17:28:30,839 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile Tab clicked
+[DEBUG] 2020-07-20 17:28:40,080 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserEmail is: hari@preempt.com
+[DEBUG] 2020-07-20 17:28:40,169 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserID is: hari_admin2
+[DEBUG] 2020-07-20 17:28:40,177 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Verified User name retrived as : hari_admin2
+[DEBUG] 2020-07-20 17:28:40,264 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User First Name is: Hari
+[DEBUG] 2020-07-20 17:28:40,462 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Last Name is: Singh
+[DEBUG] 2020-07-20 17:28:40,503 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Permission Level is: Empirix Admin
+[DEBUG] 2020-07-20 17:28:40,779 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Notification Tab clicked
+[DEBUG] 2020-07-20 17:28:43,271 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Notification icon clicked
+[DEBUG] 2020-07-20 17:28:47,893 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Save' button disabled under Notification tab
+[DEBUG] 2020-07-20 17:28:47,928 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-20 17:28:47,928 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Delete' button disabled under Notification tab
+[DEBUG] 2020-07-20 17:28:49,195 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Passing Random notification name under Notification tabNotify_6E224
+[DEBUG] 2020-07-20 17:28:49,327 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Passing Email Addresses 'hssingh@empirix.com' under Notification tab
+[INFO ] 2020-07-20 17:28:49,450 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Save button clicked
+[INFO ] 2020-07-20 17:28:51,840 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Found load progress bar
+[DEBUG] 2020-07-20 17:28:51,903 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Save' button disabled after creating notification
+[DEBUG] 2020-07-20 17:28:52,005 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Choose either user or enter email addresses' icon is not displaying
+[DEBUG] 2020-07-20 17:28:52,072 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Delete' button enabled after creating notification
+[DEBUG] 2020-07-20 17:28:52,108 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that 'Mail' button enabled after creating notification
+[DEBUG] 2020-07-20 17:28:52,112 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that Notification:Notify_6E224Created Successfully
+[INFO ] 2020-07-20 17:28:56,250 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Found load progress bar
+[INFO ] 2020-07-20 17:28:56,290 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Mail alert displayed
+[INFO ] 2020-07-20 17:28:56,324 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that popup 'Test email sent' text appeared on popup
+[DEBUG] 2020-07-20 17:28:56,366 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Notification filter clicked
+[INFO ] 2020-07-20 17:28:56,456 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Navigate to script Tab
+[INFO ] 2020-07-20 17:29:04,076 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - found progress bar
+[INFO ] 2020-07-20 17:29:10,265 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Start Creating Script using + button
+[INFO ] 2020-07-20 17:29:10,859 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - New script creation popup appered
+[INFO ] 2020-07-20 17:29:10,859 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-20 17:29:10,859 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Clicked Yes
+[DEBUG] 2020-07-20 17:29:10,863 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that Script dropdown
+[DEBUG] 2020-07-20 17:29:10,951 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-20 17:29:11,524 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-20 17:29:14,787 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that e164disabled
+[INFO ] 2020-07-20 17:29:14,791 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Generate Radom Scriptname Script_4KXHY
+[INFO ] 2020-07-20 17:29:15,300 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Passing script name Script_4KXHY
+[INFO ] 2020-07-20 17:29:15,672 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Passing Number to Call is 18001111111
+[INFO ] 2020-07-20 17:29:15,672 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Sync issue so waiting just one second
+[INFO ] 2020-07-20 17:29:15,896 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Deleteing First PhraseHear
+[INFO ] 2020-07-20 17:29:15,898 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Sync issue so waiting just one second
+[INFO ] 2020-07-20 17:29:16,022 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Deleteing first Press Section
+[INFO ] 2020-07-20 17:29:16,026 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Sync issue so waiting just one second
+[INFO ] 2020-07-20 17:29:16,135 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Deleteing second PhraseHear
+[INFO ] 2020-07-20 17:29:17,475 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Using Action class double clicked pause button
+[INFO ] 2020-07-20 17:29:17,584 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Clicked Save button
+[INFO ] 2020-07-20 17:29:21,843 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Sync issue so waiting just ten Second
+[INFO ] 2020-07-20 17:29:21,871 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that Run button enabled
+[INFO ] 2020-07-20 17:29:21,907 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Verified that Run button contain Run Test text
+[INFO ] 2020-07-20 17:29:21,997 pom010_VW_Notification_Tab.Email_Validation_with_test_on_Beta_Server() - Navigate to Test Tab

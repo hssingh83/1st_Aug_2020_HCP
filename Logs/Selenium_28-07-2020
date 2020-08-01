@@ -1,0 +1,104 @@
+[DEBUG] 2020-07-28 22:50:50,455 basePropertiesFile.intializeWebDriver() - Chrome Driver intilized successfully
+[INFO ] 2020-07-28 22:50:50,455 basePropertiesFile.intializeWebDriver() - Chrome Browser selected & Launching
+[INFO ] 2020-07-28 22:50:51,689 basePropertiesFile.VoiceWatch_login() - Screen maximized successfully
+[DEBUG] 2020-07-28 22:51:07,521 basePropertiesFile.VoiceWatch_login() - URL provided
+[INFO ] 2020-07-28 22:51:08,583 basePropertiesFile.VoiceWatch_login() - Refresing Page again
+[INFO ] 2020-07-28 22:51:08,806 basePropertiesFile.VoiceWatch_login() - Loding so refersing page again
+[DEBUG] 2020-07-28 22:51:09,672 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-28 22:51:17,214 basePropertiesFile.VoiceWatch_login() - Webpage loading
+[DEBUG] 2020-07-28 22:51:17,282 basePropertiesFile.VoiceWatch_login() - User Name Provided
+[DEBUG] 2020-07-28 22:51:17,365 basePropertiesFile.VoiceWatch_login() - Password Provided
+[DEBUG] 2020-07-28 22:51:17,439 basePropertiesFile.VoiceWatch_login() - Sign button clicked
+[DEBUG] 2020-07-28 22:51:17,439 basePropertiesFile.VoiceWatch_login() - User logged in:admin
+[DEBUG] 2020-07-28 22:51:56,903 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[INFO ] 2020-07-28 22:52:00,956 pom007_VW_Script_Tabs.e2escriptdeletion() - Navigate to script Tab
+[INFO ] 2020-07-28 22:52:04,855 pom007_VW_Script_Tabs.e2escriptdeletion() - Progress
+[INFO ] 2020-07-28 22:52:05,599 pom007_VW_Script_Tabs.e2escriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:05,687 pom007_VW_Script_Tabs.e2escriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:05,795 pom007_VW_Script_Tabs.e2escriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:10,704 pom007_VW_Script_Tabs.e2escriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:13,604 pom007_VW_Script_Tabs.scriptdeletion() - Navigate to script Tab
+[INFO ] 2020-07-28 22:52:15,980 pom007_VW_Script_Tabs.scriptdeletion() - Progress
+[INFO ] 2020-07-28 22:52:17,188 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:17,283 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:17,325 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:19,616 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:20,304 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:20,358 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:20,396 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:22,214 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:23,128 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:23,197 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:23,236 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:25,708 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:26,434 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:26,502 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:26,542 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:28,854 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:29,691 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:29,750 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:29,798 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:32,021 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:32,763 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:32,833 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:32,865 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:35,457 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:36,334 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:36,402 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:36,435 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:38,157 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:38,807 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:38,880 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:38,908 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:40,503 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:41,512 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:41,590 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:41,629 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:43,939 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:45,020 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:45,087 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:45,121 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:48,307 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:49,096 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:49,152 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:49,180 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:50,767 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:51,371 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:51,421 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:51,447 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:53,409 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:54,114 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:54,166 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:54,202 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:56,004 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:56,712 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:52:56,784 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:52:56,812 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:52:59,056 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:52:59,938 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:53:00,045 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:53:00,078 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:53:01,790 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:53:02,309 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:53:02,374 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:53:02,402 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:53:06,084 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[INFO ] 2020-07-28 22:53:06,826 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select dropdown
+[INFO ] 2020-07-28 22:53:06,886 pom007_VW_Script_Tabs.scriptdeletion() - Verified that Clicked delete button
+[INFO ] 2020-07-28 22:53:06,938 pom007_VW_Script_Tabs.scriptdeletion() - Verified that select delete all data
+[INFO ] 2020-07-28 22:53:09,399 pom007_VW_Script_Tabs.scriptdeletion() - delete Orignal Script successfully
+[DEBUG] 2020-07-28 22:53:09,973 pom010_VW_Notification_Tab.Notifydeletion() - Notification Tab clicked
+[DEBUG] 2020-07-28 22:53:22,770 pom010_VW_Notification_Tab.Notifydeletion() - Notify not found
+[DEBUG] 2020-07-28 22:53:26,725 pom010_VW_Notification_Tab.Notifydeletion() - Clicked selected notify as delete
+[INFO ] 2020-07-28 22:53:26,749 pom010_VW_Notification_Tab.Notifydeletion() - Alert is coming
+[INFO ] 2020-07-28 22:53:26,771 pom010_VW_Notification_Tab.Notifydeletion() - Alert accepted
+[DEBUG] 2020-07-28 22:53:26,772 pom010_VW_Notification_Tab.Notifydeletion() - Delete Successfully
+[DEBUG] 2020-07-28 22:53:32,136 pom010_VW_Notification_Tab.Notifydeletion() - Clicked selected notify as delete
+[INFO ] 2020-07-28 22:53:32,140 pom010_VW_Notification_Tab.Notifydeletion() - Alert is coming
+[INFO ] 2020-07-28 22:53:32,148 pom010_VW_Notification_Tab.Notifydeletion() - Alert accepted
+[DEBUG] 2020-07-28 22:53:32,152 pom010_VW_Notification_Tab.Notifydeletion() - Delete Successfully
+[DEBUG] 2020-07-28 22:53:37,411 pom010_VW_Notification_Tab.Notifydeletion() - Clicked selected notify as delete
+[INFO ] 2020-07-28 22:53:37,411 pom010_VW_Notification_Tab.Notifydeletion() - Alert is coming
+[INFO ] 2020-07-28 22:53:37,419 pom010_VW_Notification_Tab.Notifydeletion() - Alert accepted
+[DEBUG] 2020-07-28 22:53:37,419 pom010_VW_Notification_Tab.Notifydeletion() - Delete Successfully
+[DEBUG] 2020-07-28 22:53:40,935 TC0021_login_With_Exmpirix_Admin_Sanity_Flow_27_release.applicationClose() - Application closed successfully

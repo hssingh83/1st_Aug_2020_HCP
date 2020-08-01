@@ -1,0 +1,66 @@
+[DEBUG] 2020-07-26 19:42:56,735 basePropertiesFile.intializeWebDriver() - Chrome Driver intilized successfully
+[INFO ] 2020-07-26 19:42:56,735 basePropertiesFile.intializeWebDriver() - Chrome Browser selected & Launching
+[INFO ] 2020-07-26 19:42:57,909 basePropertiesFile.VoiceWatch_login() - Screen maximized successfully
+[DEBUG] 2020-07-26 19:43:25,405 basePropertiesFile.VoiceWatch_login() - URL provided
+[INFO ] 2020-07-26 19:43:26,486 basePropertiesFile.VoiceWatch_login() - Refresing Page again
+[INFO ] 2020-07-26 19:43:26,674 basePropertiesFile.VoiceWatch_login() - Loding so refersing page again
+[DEBUG] 2020-07-26 19:43:27,824 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-26 19:43:46,140 basePropertiesFile.VoiceWatch_login() - Webpage loading
+[DEBUG] 2020-07-26 19:43:46,220 basePropertiesFile.VoiceWatch_login() - User Name Provided
+[DEBUG] 2020-07-26 19:43:46,300 basePropertiesFile.VoiceWatch_login() - Password Provided
+[DEBUG] 2020-07-26 19:43:46,380 basePropertiesFile.VoiceWatch_login() - Sign button clicked
+[DEBUG] 2020-07-26 19:43:46,380 basePropertiesFile.VoiceWatch_login() - User logged in:hari_admin2
+[DEBUG] 2020-07-26 19:44:34,885 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-26 19:44:39,906 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile dropdown clicked
+[DEBUG] 2020-07-26 19:44:45,794 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile Tab clicked
+[DEBUG] 2020-07-26 19:44:55,461 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserEmail is: hari@preempt.com
+[DEBUG] 2020-07-26 19:44:55,514 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile UserID is: hari_admin2
+[DEBUG] 2020-07-26 19:44:55,514 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Verified User name retrived as : hari_admin2
+[DEBUG] 2020-07-26 19:44:55,542 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User First Name is: Hari
+[DEBUG] 2020-07-26 19:44:55,587 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Last Name is: Singh
+[DEBUG] 2020-07-26 19:44:55,619 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile User Permission Level is: Empirix Admin
+[INFO ] 2020-07-26 19:44:55,856 pom005_VW_Tests_Tab.CreateTest_using_button() - Navigate to Script Tab
+[INFO ] 2020-07-26 19:44:55,857 pom005_VW_Tests_Tab.CreateTest_using_button() - =================New Script Creation===========================
+[INFO ] 2020-07-26 19:45:02,175 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-26 19:45:02,272 pom005_VW_Tests_Tab.CreateTest_using_button() - Start Creating Script using + button
+[INFO ] 2020-07-26 19:45:04,470 pom005_VW_Tests_Tab.CreateTest_using_button() - New script creation popup appered
+[INFO ] 2020-07-26 19:45:04,474 pom005_VW_Tests_Tab.CreateTest_using_button() - Pop defined as 'You are about to create a new script, Do you want to continue ?'
+[INFO ] 2020-07-26 19:45:04,474 pom005_VW_Tests_Tab.CreateTest_using_button() - Clicked Yes
+[DEBUG] 2020-07-26 19:45:04,474 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Script dropdown
+[DEBUG] 2020-07-26 19:45:04,575 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that IVR Script selected from dropdown
+[DEBUG] 2020-07-26 19:45:05,244 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Go button clicked while select IVR Scriptn
+[DEBUG] 2020-07-26 19:45:09,027 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that e164disabled
+[INFO ] 2020-07-26 19:45:09,031 pom005_VW_Tests_Tab.CreateTest_using_button() - Generate Radom Scriptname IVR_Script_BXQAT
+[INFO ] 2020-07-26 19:45:09,296 pom005_VW_Tests_Tab.CreateTest_using_button() - Script Name Passing to script name field is: IVR_Script_BXQAT
+[INFO ] 2020-07-26 19:45:09,413 pom005_VW_Tests_Tab.CreateTest_using_button() - Generate Radom script description
+[INFO ] 2020-07-26 19:45:09,529 pom005_VW_Tests_Tab.CreateTest_using_button() - Passing Number to Call is 18002051994
+[INFO ] 2020-07-26 19:45:09,608 pom005_VW_Tests_Tab.CreateTest_using_button() - Deleteing First PhraseHear
+[INFO ] 2020-07-26 19:45:09,677 pom005_VW_Tests_Tab.CreateTest_using_button() - Deleteing first Press Section
+[INFO ] 2020-07-26 19:45:09,749 pom005_VW_Tests_Tab.CreateTest_using_button() - Deleteing second PhraseHear
+[INFO ] 2020-07-26 19:45:11,097 pom005_VW_Tests_Tab.CreateTest_using_button() - Double Click on pause button Using Action class
+[INFO ] 2020-07-26 19:45:11,202 pom005_VW_Tests_Tab.CreateTest_using_button() - Clicked script Save button
+[INFO ] 2020-07-26 19:45:24,955 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-26 19:45:25,043 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button enabled
+[INFO ] 2020-07-26 19:45:25,120 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button contains Run Test text on the button
+[INFO ] 2020-07-26 19:45:25,120 pom005_VW_Tests_Tab.CreateTest_using_button() - =========================Test Creation=======================
+[INFO ] 2020-07-26 19:45:25,210 pom005_VW_Tests_Tab.CreateTest_using_button() - Navigate to Test Tab
+[INFO ] 2020-07-26 19:45:29,840 pom005_VW_Tests_Tab.CreateTest_using_button() - IVR Test Selected from Test Selection dropdown
+[INFO ] 2020-07-26 19:45:29,914 pom005_VW_Tests_Tab.CreateTest_using_button() - Start Creating Test using + button
+[INFO ] 2020-07-26 19:45:29,914 pom005_VW_Tests_Tab.CreateTest_using_button() - Start Creating Test using + button
+[INFO ] 2020-07-26 19:45:34,982 pom005_VW_Tests_Tab.CreateTest_using_button() - Test Name Passing to test name field
+[INFO ] 2020-07-26 19:45:35,094 pom005_VW_Tests_Tab.CreateTest_using_button() - Select script from dropdown under test tab
+[INFO ] 2020-07-26 19:45:37,477 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-26 19:45:37,567 pom005_VW_Tests_Tab.CreateTest_using_button() - clicked Save Test button
+[INFO ] 2020-07-26 19:45:39,982 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-26 19:45:40,017 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button enabled
+[INFO ] 2020-07-26 19:45:40,049 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-26 19:45:40,070 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button enabled
+[INFO ] 2020-07-26 19:45:40,070 pom005_VW_Tests_Tab.CreateTest_using_button() - =========================Celaning Test Data======================
+[INFO ] 2020-07-26 19:45:40,147 pom005_VW_Tests_Tab.CreateTest_using_button() - Navigate back to script tab
+[INFO ] 2020-07-26 19:45:48,614 pom005_VW_Tests_Tab.CreateTest_using_button() - found progress bar loading
+[INFO ] 2020-07-26 19:45:48,744 pom005_VW_Tests_Tab.CreateTest_using_button() - Search above created Script using filter: IVR_Script_BXQAT
+[INFO ] 2020-07-26 19:45:48,984 pom005_VW_Tests_Tab.CreateTest_using_button() - Just retrived the deatils of above created script IVR_Script_BXQAT
+[INFO ] 2020-07-26 19:45:49,032 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button is enabled
+[INFO ] 2020-07-26 19:45:49,069 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that Run button contain 'Run Test' text
+[INFO ] 2020-07-26 19:45:49,149 pom005_VW_Tests_Tab.CreateTest_using_button() - Verified that select dropdown
+[INFO ] 2020-07-26 19:45:49,173 pom005_VW_Tests_Tab.CreateTest_using_button() - delete button not found, so delete functinality not avaiable

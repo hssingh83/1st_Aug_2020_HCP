@@ -1,0 +1,15 @@
+[DEBUG] 2020-07-22 21:17:13,456 basePropertiesFile.intializeWebDriver() - Chrome Driver intilized successfully
+[INFO ] 2020-07-22 21:17:13,461 basePropertiesFile.intializeWebDriver() - Chrome Browser selected & Launching
+[INFO ] 2020-07-22 21:17:14,640 basePropertiesFile.VoiceWatch_login() - Screen maximized successfully
+[DEBUG] 2020-07-22 21:17:52,817 basePropertiesFile.VoiceWatch_login() - URL provided
+[INFO ] 2020-07-22 21:17:54,119 basePropertiesFile.VoiceWatch_login() - Refresing Page again
+[INFO ] 2020-07-22 21:17:54,398 basePropertiesFile.VoiceWatch_login() - Loding so refersing page again
+[DEBUG] 2020-07-22 21:17:57,421 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-22 21:18:12,788 basePropertiesFile.VoiceWatch_login() - Webpage loading
+[DEBUG] 2020-07-22 21:18:12,847 basePropertiesFile.VoiceWatch_login() - User Name Provided
+[DEBUG] 2020-07-22 21:18:12,917 basePropertiesFile.VoiceWatch_login() - Password Provided
+[DEBUG] 2020-07-22 21:18:12,992 basePropertiesFile.VoiceWatch_login() - Sign button clicked
+[DEBUG] 2020-07-22 21:18:12,993 basePropertiesFile.VoiceWatch_login() - User logged in:hari_admin2
+[DEBUG] 2020-07-22 21:19:29,147 basePropertiesFile.VoiceWatch_login() - implicit Wait Applied
+[DEBUG] 2020-07-22 21:19:38,292 pom010_VW_Notification_Tab.Capture_Mandatory_details() - Profile dropdown clicked
+[DEBUG] 2020-07-22 21:20:08,901 pom010_VW_Notification_Tab.Create_Notifi_using_Email_with_New_Template() - Notification Tab clicked
